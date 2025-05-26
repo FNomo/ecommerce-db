@@ -1,0 +1,374 @@
+command id,return_date,repayment_date,reason
+201,2018-02-04,,Le produit est defectueux
+202,2011-02-16,,Le produit est defectueux
+203,2020-04-23,,Le produit est defectueux
+204,2019-09-28,,Le produit est defectueux
+221,2021-01-02,,Le produit est trop moche
+222,2014-11-10,,Le produit est trop moche
+223,2015-07-09,,Le produit est trop moche
+224,2018-09-04,,Le produit est trop moche
+225,2011-08-26,,Le produit est trop moche
+226,2019-11-28,,Le produit est trop moche
+227,2013-05-07,,Le produit est trop moche
+228,2016-04-17,,Le produit est trop moche
+229,2018-01-25,,Le produit est trop moche
+230,2021-03-13,,Le produit est trop moche
+231,2019-07-04,,Le produit est trop moche
+232,2020-10-25,,Le produit est trop moche
+233,2019-07-29,,Le produit est bizarre
+234,2018-05-30,,Le produit est bizarre
+235,2021-02-04,,Le produit est bizarre
+236,2017-09-04,,Le produit est bizarre
+237,2017-10-14,,Le produit est bizarre
+238,2016-11-09,,Le produit est bizarre
+239,2017-06-03,,Le produit est bizarre
+240,2018-05-19,,Le produit est bizarre
+241,2015-07-05,,Le produit est bizarre
+242,2015-09-15,,Le produit etait mieux sur la photo
+243,2018-06-15,,Le produit etait mieux sur la photo
+244,2019-11-14,,Le produit etait mieux sur la photo
+245,2019-06-14,,Le produit etait mieux sur la photo
+246,2018-04-01,,Le produit etait mieux sur la photo
+247,2020-12-28,,Le produit etait mieux sur la photo
+248,2014-11-15,,Le produit etait mieux sur la photo
+249,2019-08-27,,Le produit etait mieux sur la photo
+250,2020-03-20,,Le produit etait mieux sur la photo
+276,2016-09-05,,Le produit est trop petit
+277,2017-10-02,,Le produit est trop petit
+278,2017-03-12,,Le produit est trop petit
+279,2020-05-02,,Le produit est trop petit
+280,2018-07-03,,Le produit est trop petit
+281,2018-11-23,,Le produit est trop petit
+282,2018-10-10,,Le produit est trop petit
+283,2021-03-19,,Le produit est trop petit
+284,2018-10-07,,Le produit est trop petit
+285,2016-06-25,,Le produit est trop petit
+286,2017-06-09,,Le produit est trop petit
+287,2014-09-07,,Le produit est trop petit
+288,2013-04-29,,Le produit est trop petit
+289,2015-01-23,,Le produit est trop petit
+290,2021-05-06,,Le produit est trop petit
+291,2011-12-23,,Le produit est trop petit
+292,2017-11-27,,Le produit est trop petit
+293,2019-03-23,,Le produit est trop grand
+294,2017-01-05,,Le produit est trop grand
+295,2021-03-13,,Le produit est trop grand
+296,2018-11-02,,Le produit est trop grand
+297,2021-03-14,,Le produit est trop grand
+298,2019-06-02,,Le produit est trop grand
+299,2019-10-04,,Le produit est trop grand
+300,2015-06-06,,Le produit est trop grand
+301,2017-09-23,,Le produit est trop grand
+302,2021-01-09,,Le produit est trop grand
+303,2018-03-03,,Le produit est trop grand
+304,2018-06-13,,Le produit est trop grand
+305,2020-09-28,,Le produit est trop grand
+306,2016-08-23,,Le produit est trop grand
+321,2010-12-09,,Le produit etait cassee
+322,2017-10-19,,Le produit etait cassee
+323,2021-03-19,,Le produit etait cassee
+324,2019-11-16,,Le produit etait cassee
+325,2020-08-09,,Le produit etait cassee
+326,2020-08-10,,Le produit etait cassee
+327,2018-12-02,,Le produit etait cassee
+328,2017-09-06,,Le produit etait cassee
+329,2012-07-31,,Le produit etait cassee
+330,2017-03-17,,Le produit etait cassee
+331,2021-05-11,,Le produit etait cassee
+332,2015-05-17,,Le produit etait cassee
+333,2018-04-06,,Le produit etait cassee
+334,2019-05-09,,Le produit etait cassee
+335,2014-10-07,,Le produit etait cassee
+336,2020-03-17,,Le produit etait cassee
+337,2020-02-02,,Le produit etait cassee
+338,2020-07-19,,Le produit etait cassee
+339,2020-01-29,,Le produit etait abime
+340,2021-02-24,,Le produit etait abime
+341,2017-12-29,,Le produit etait abime
+342,2019-11-17,,Le produit etait abime
+343,2017-01-25,,Le produit etait abime
+344,2017-01-25,,Le produit etait abime
+345,2016-02-27,,Le produit etait abime
+346,2019-02-14,,Le produit etait abime
+347,2021-05-02,,Le produit etait abime
+348,2018-07-20,,Le produit etait abime
+349,2020-12-22,,Le produit etait abime
+350,2019-12-04,,Le produit etait abime
+351,2019-10-03,,Le produit etait abime
+352,2021-04-13,,Le produit etait abime
+353,2019-12-09,,Le produit etait abime
+372,2020-09-13,,Je pensais que le produit etait gratuit.
+373,2018-09-06,,Je pensais que le produit etait gratuit.
+374,2017-05-02,,Je pensais que le produit etait gratuit.
+375,2019-11-08,,Je pensais que le produit etait gratuit.
+376,2014-12-23,,Je pensais que le produit etait gratuit.
+377,2020-05-12,,Je pensais que le produit etait gratuit.
+378,2019-10-08,,Je pensais que le produit etait gratuit.
+379,2020-02-07,,Je pensais que le produit etait gratuit.
+380,2018-07-15,,Je pensais que le produit etait gratuit.
+381,2021-03-10,,Je pensais que le produit etait gratuit.
+382,2020-02-09,,Je pensais que le produit etait gratuit.
+383,2020-07-27,,Je pensais que le produit etait gratuit.
+384,2017-03-08,,Je pensais que le produit etait gratuit.
+385,2015-07-23,,Je pensais que le produit etait gratuit.
+386,2021-01-31,,Je pensais que le produit etait gratuit.
+387,2019-07-05,,Je pensais que le produit etait gratuit.
+388,2020-07-24,,Je pensais que le produit etait gratuit.
+389,2017-07-07,,J’ai trouve moins cher ailleurs.
+390,2019-10-02,,J’ai trouve moins cher ailleurs.
+391,2020-06-10,,J’ai trouve moins cher ailleurs.
+392,2019-08-29,,J’ai trouve moins cher ailleurs.
+393,2019-02-21,,J’ai trouve moins cher ailleurs.
+394,2020-05-07,,J’ai trouve moins cher ailleurs.
+395,2020-05-28,,J’ai trouve moins cher ailleurs.
+396,2021-05-20,,J’ai trouve moins cher ailleurs.
+397,2016-11-28,,J’ai trouve moins cher ailleurs.
+398,2011-09-28,,J’ai trouve moins cher ailleurs.
+399,2020-03-28,,J’ai trouve moins cher ailleurs.
+400,2020-12-09,,J’ai trouve moins cher ailleurs.
+401,2020-01-27,2020-02-01,Le produit est abime
+402,2014-11-26,2014-12-05,Le produit est abime
+403,2021-03-26,2021-04-03,Le produit est abime
+423,2019-07-20,2019-07-27,Le produit a ete livre en retard
+424,2019-08-11,2019-08-19,Le produit a ete livre en retard
+425,2020-04-18,2020-04-28,Le produit a ete livre en retard
+426,2020-11-01,2020-11-09,Le produit a ete livre en retard
+427,2018-11-22,2018-11-28,Le produit a ete livre en retard
+428,2020-08-15,2020-08-22,Le produit a ete livre en retard
+429,2015-11-01,2015-11-06,Le produit a ete livre en retard
+430,2018-03-11,2018-03-21,Le produit a ete livre en retard
+431,2015-02-13,2015-02-21,Le produit a ete livre en retard
+432,2018-07-08,2018-07-14,Le produit a ete livre en retard
+433,2016-07-25,2016-08-01,Le produit a ete livre en retard
+434,2016-03-09,2016-03-14,Le produit a ete ouvert.
+435,2016-03-14,2016-03-19,Le produit a ete ouvert.
+436,2015-06-29,2015-07-07,Le produit a ete ouvert.
+437,2020-03-12,2020-03-19,Le produit a ete ouvert.
+438,2020-08-25,2020-09-05,Le produit a ete ouvert.
+439,2011-11-14,2011-11-19,Le produit a ete ouvert.
+440,2020-01-01,2020-01-08,Le produit a ete ouvert.
+441,2011-07-19,2011-07-28,Le produit a ete ouvert.
+442,2017-11-12,2017-11-18,Le produit a ete ouvert.
+443,2018-11-26,2018-12-04,Le produit a ete ouvert.
+444,2019-09-03,2019-09-12,Le produit a ete ouvert.
+445,2019-07-26,2019-08-05,Le produit a ete ouvert.
+446,2019-04-03,2019-04-09,Le produit a ete ouvert.
+447,2020-02-29,2020-03-06,Le produit a ete ouvert.
+448,2013-09-23,2013-09-29,Le produit a ete ouvert.
+449,2019-04-11,2019-04-19,Le produit a ete ouvert.
+450,2019-07-04,2019-07-08,Le produit a ete ouvert.
+463,2017-05-11,,Je n’aime le produit.
+464,2018-09-08,,Je n’aime le produit.
+465,2020-12-24,,Je n’aime le produit.
+466,2016-11-04,,Je n’aime le produit.
+467,2019-07-31,,Je n’aime le produit.
+468,2017-05-06,,Je n’aime le produit.
+469,2021-01-30,,Je n’aime le produit.
+470,2014-05-02,,Je n’aime le produit.
+471,2020-08-06,,Je n’aime le produit.
+484,2018-12-26,,Je prefere le produit en rouge.
+485,2020-02-28,,Je prefere le produit en rouge.
+486,2017-02-10,,Je prefere le produit en rouge.
+487,2018-04-01,,Je prefere le produit en rouge.
+488,2019-04-26,,Je prefere le produit en rouge.
+489,2016-11-22,,Je prefere le produit en rouge.
+501,2020-08-06,,Le colis etait vide.
+502,2012-12-09,,Le colis etait vide.
+503,2011-09-27,,Le colis etait vide.
+504,2014-02-05,,Le colis etait vide.
+505,2020-10-14,,Le colis etait vide.
+506,2019-06-29,,Le colis etait vide.
+507,2019-09-15,,Le colis etait vide.
+508,2018-01-06,,Le colis etait vide.
+509,2021-04-08,,Le colis etait vide.
+510,2018-09-08,,Le colis etait vide.
+511,2019-06-17,,Le colis etait vide.
+512,2021-03-20,,Le colis etait vide.
+513,2013-11-09,,Le colis etait vide.
+514,2013-04-11,,Le colis etait vide.
+515,2019-03-29,,Le colis etait vide.
+516,2014-05-22,,Le colis etait vide.
+517,2020-02-22,,Le colis etait vide.
+518,2021-03-15,,Le colis etait vide.
+519,2020-08-21,,Le colis etait vide.
+520,2019-11-12,,Le colis etait vide.
+521,2021-02-13,,Le colis etait vide.
+522,2021-05-16,,Le colis etait vide.
+523,2013-02-12,,Le produit a ete livre en retard
+524,2019-09-03,,Le produit a ete livre en retard
+525,2020-09-30,,Le produit a ete livre en retard
+526,2019-01-17,,Le produit a ete livre en retard
+527,2016-09-01,,Le produit a ete livre en retard
+528,2015-12-31,,Le produit a ete livre en retard
+529,2020-03-28,,Le produit a ete livre en retard
+530,2019-04-19,,Le produit a ete livre en retard
+531,2019-05-14,,Le produit a ete livre en retard
+532,2020-11-09,,Le produit a ete livre en retard
+533,2020-10-23,,Le produit a ete livre en retard
+534,2014-06-07,,Le produit a ete livre en retard
+535,2021-01-17,,Le produit a ete livre en retard
+536,2017-11-14,,Le produit a ete livre en retard
+537,2021-03-03,,Le produit a ete livre en retard
+538,2019-07-11,,Le produit a ete livre en retard
+539,2018-07-29,,Le produit a ete livre en retard
+540,2015-04-09,,Le produit a ete livre en retard
+541,2020-07-23,,Le produit a ete livre en retard
+542,2015-01-25,,Le produit a ete livre en retard
+543,2019-02-17,,Le produit a etait casse.
+544,2013-09-23,,Le produit a etait casse.
+545,2014-07-12,,Le produit a etait casse.
+546,2020-03-28,,Le produit a etait casse.
+547,2021-03-10,,Le produit a etait casse.
+548,2017-06-09,,Le produit a etait casse.
+549,2017-07-11,,Le produit a etait casse.
+550,2021-05-13,,Le produit a etait casse.
+551,2019-03-30,,Le produit a etait casse.
+552,2018-03-07,,Le produit a etait casse.
+553,2021-02-11,,Le produit a etait casse.
+554,2019-08-28,,Le produit a etait casse.
+555,2014-01-30,,Le produit a etait casse.
+556,2019-11-23,,Le produit a etait casse.
+557,2014-08-25,,Le produit a etait casse.
+558,2016-08-11,,Le produit a etait casse.
+559,2019-09-16,,Le produit a etait casse.
+560,2019-06-29,,Le produit a etait casse.
+561,2021-01-08,,Le produit est arrive avec des marques d usures.
+562,2020-03-31,,Le produit est arrive avec des marques d usures.
+563,2021-02-19,,Le produit est arrive avec des marques d usures.
+564,2020-12-05,,Le produit est arrive avec des marques d usures.
+565,2017-11-15,,Le produit est arrive avec des marques d usures.
+566,2018-12-28,,Le produit est arrive avec des marques d usures.
+567,2015-12-19,,Le produit est arrive avec des marques d usures.
+568,2018-01-23,,Le produit est arrive avec des marques d usures.
+569,2016-09-20,,Le produit est arrive avec des marques d usures.
+570,2018-03-05,,Le produit est arrive avec des marques d usures.
+571,2016-09-13,,Le produit est arrive avec des marques d usures.
+572,2021-05-24,,Le produit est arrive avec des marques d usures.
+573,2020-05-02,,Le produit est arrive avec des marques d usures.
+574,2018-06-27,,Le produit est arrive avec des marques d usures.
+575,2012-09-28,,Le produit est arrive avec des marques d usures.
+576,2021-05-18,,Le produit est arrive avec des marques d usures.
+577,2017-06-23,,Le produit est arrive avec des marques d usures.
+578,2017-05-08,,Le produit est arrive avec des marques d usures.
+579,2013-04-11,,Le produit est arrive avec des marques d usures.
+580,2019-02-13,,Le produit est arrive avec des marques d usures.
+581,2014-03-04,,Le produit etait avait des parties manquantes
+582,2017-05-15,,Le produit etait avait des parties manquantes
+583,2020-04-29,,Le produit etait avait des parties manquantes
+584,2016-04-07,,Le produit etait avait des parties manquantes
+585,2019-02-20,,Le produit etait avait des parties manquantes
+586,2020-12-05,,Le produit etait avait des parties manquantes
+587,2020-07-28,,Le produit etait avait des parties manquantes
+588,2019-08-22,,Le produit etait avait des parties manquantes
+589,2018-05-22,,Le produit etait avait des parties manquantes
+590,2016-01-31,,Le produit etait avait des parties manquantes
+591,2018-12-20,,Le produit etait avait des parties manquantes
+592,2021-01-24,,Le produit etait avait des parties manquantes
+593,2018-02-21,,Le produit etait avait des parties manquantes
+594,2015-12-03,,Le produit etait avait des parties manquantes
+595,2017-02-17,,Le produit etait avait des parties manquantes
+596,2019-11-04,,Le produit etait avait des parties manquantes
+597,2017-07-25,,Le produit etait avait des parties manquantes
+598,2021-03-03,,Le produit etait avait des parties manquantes
+599,2017-01-17,,Le produit etait avait des parties manquantes
+600,2021-02-06,,Le produit etait avait des parties manquantes
+601,2018-04-05,,
+602,2014-11-13,,
+603,2013-01-15,,
+604,2021-04-06,,
+605,2019-03-20,,
+606,2021-04-09,,
+607,2020-12-01,,
+608,2021-05-23,,Je ne savais pas que ca coutais si cher.
+609,2018-10-25,,Je ne savais pas que ca coutais si cher.
+610,2017-05-02,,Je ne savais pas que ca coutais si cher.
+611,2019-10-17,,Je ne savais pas que ca coutais si cher.
+612,2020-11-23,,Je ne savais pas que ca coutais si cher.
+613,2015-06-05,,Je ne savais pas que ca coutais si cher.
+614,2016-12-03,,Je ne savais pas que ca coutais si cher.
+615,2019-07-29,,Je ne savais pas que ca coutais si cher.
+616,2020-08-31,,
+617,2018-07-09,,
+618,2020-03-21,,
+619,2018-05-09,,
+620,2021-02-04,,
+621,2020-09-18,,
+622,2020-12-11,,
+623,2016-05-26,,
+624,2017-07-18,,Je n’aime plus votre magasin.
+625,2018-11-10,,Je n’aime plus votre magasin.
+626,2013-06-03,,Je n’aime plus votre magasin.
+627,2016-02-27,,Je n’aime plus votre magasin.
+628,2017-03-12,,Je n’aime plus votre magasin.
+629,2015-01-06,,Je n’aime plus votre magasin.
+630,2018-06-11,,Je n’aime plus votre magasin.
+631,2021-01-13,,Je n’aime plus votre magasin.
+632,2017-09-01,,Je n’aime plus votre magasin.
+633,2015-11-06,,
+634,2021-04-04,,
+635,2021-01-10,,
+636,2019-11-13,,
+637,2017-10-04,,
+638,2020-03-18,,
+639,2016-04-25,,
+640,2017-12-24,,
+641,2011-05-07,,
+642,2016-09-19,,
+643,2013-06-08,,
+644,2014-03-03,,
+645,2021-04-08,,
+646,2013-09-26,,
+647,2017-07-21,,
+648,2013-11-17,,
+649,2018-12-25,,
+650,2017-04-22,,
+651,2015-09-20,,Le produit a etait casse.
+652,2020-12-14,,Le produit a etait casse.
+653,2019-09-04,,Le produit a etait casse.
+654,2019-06-04,,Le produit a etait casse.
+655,2019-07-20,,Le produit a etait casse.
+656,2019-11-21,,Le produit a etait casse.
+657,2015-03-25,,Le produit a etait casse.
+658,2021-02-27,,Le produit a etait casse.
+659,2019-12-16,,Le produit a etait casse.
+660,2019-03-28,,Le produit a etait casse.
+661,2018-08-27,,Le produit a etait casse.
+662,2021-01-30,,Le produit a etait casse.
+663,2020-11-19,,Le produit a etait casse.
+664,2018-02-09,,Le produit a etait casse.
+665,2020-04-20,,Le produit a etait casse.
+666,2017-04-10,,Le produit a etait casse.
+667,2019-06-26,,Le produit a etait casse.
+668,2020-03-26,,Le produit a etait casse.
+669,2019-10-17,,Le produit a etait casse.
+670,2019-11-23,,Le produit a etait casse.
+671,2021-03-21,,Le produit a etait casse.
+672,2019-12-08,,Le produit a etait casse.
+673,2013-08-13,,Le produit a etait casse.
+674,2016-06-22,,Le produit est defectueux
+675,2018-08-07,,Le produit est defectueux
+676,2021-03-31,,Le produit est defectueux
+677,2019-05-21,,Le produit est defectueux
+678,2017-12-30,,Le produit est defectueux
+679,2019-01-24,,Le produit est defectueux
+680,2015-04-14,,Le produit est defectueux
+681,2015-11-16,,Le produit est defectueux
+682,2020-10-02,,Le produit est defectueux
+683,2017-06-08,,Le produit est defectueux
+684,2020-09-24,,Le produit est defectueux
+685,2018-09-24,,Le produit est defectueux
+686,2016-11-03,,Le produit est defectueux
+687,2021-05-19,,Le produit a ete livre en retard
+688,2016-03-19,,Le produit a ete livre en retard
+689,2020-02-03,,Le produit a ete livre en retard
+690,2019-06-01,,Le produit a ete livre en retard
+691,2019-11-26,,Le produit a ete livre en retard
+692,2020-12-26,,Le produit a ete livre en retard
+693,2017-04-08,,Le produit a ete livre en retard
+694,2017-12-28,,Le produit a ete livre en retard
+695,2019-11-07,,Le produit a ete livre en retard
+696,2020-12-24,,Le produit a ete livre en retard
+697,2013-10-31,,Le produit a ete livre en retard
+698,2018-02-27,,Le produit a ete livre en retard
+699,2020-10-12,,Le produit a ete livre en retard
+700,2018-03-06,,Le produit a ete livre en retard

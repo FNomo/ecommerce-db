@@ -1,0 +1,73 @@
+p_name,sport,branc,quantity,price_id,p_availability,state_stock,color,metal,length,width,height
+Vélo elliptique auto alimenté EL 520,FITNESS,DOMYOS,10,181,all,available,black,metal,200,50,100
+Tapis de course T540B,FITNESS,DOMYOS,0,163,all,ordered,black,metal,250,70,100
+Elliptique NordicTrack SE3I,FITNESS,NORDICTRACK,36,130,all,available,grey,metal,250,70,200
+NordicTrack GX 4.4 Pro,FITNESS,NORDICTRACK,16,192,all,available,grey,metal,250,70,200
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tapis de course INTENSE RUN,FITNESS,DOMYOS,0,153,all,sold_out,grey,metal,250,70,100
+Rameur essentiel 120,FITNESS,DOMYOS,0,185,all,sold_out,black,metal,250,70,100
+Vélo d'appartement essentiel EB 120,FITNESS,DOMYOS,0,93,web_only,sold_out,black,metal,200,50,100
+Vélo d'appartement auto alimenté BIKE 900,FITNESS,DOMYOS,34,148,all,available,black,metal,200,50,100
+Vélo d'appartement essentiel EB 140,FITNESS,DOMYOS,0,78,all,sold_out,black,metal,200,50,100
+Vélo elliptique essentiel EL 100,FITNESS,DOMYOS,18,141,store_only,available,black,metal,200,50,100
+Velo d'appartement ESSENTIAL,FITNESS,DOMYOS,48,29,all,available,black,metal,200,50,100
+NORDICTRACK RW AIR,FITNESS,NORDICTRACK,40,21,all,available,black,metal,200,70,100
+STEPPER MS100,FITNESS,DOMYOS,0,19,all,ordered,white,metal,200,70,150
+Banc de musculation 500 pliable et inclinable,MUSCULATION,DOMYOS,41,97,all,available,black,metal,200,70,70
+,,,,,,,,,,,
+Tapis de marche compact WALK 500,FITNESS,DOMYOS,2,24,all,available,grey,metal,250,70,100
+Chaise romaine de musculation Training Station 900,MUSCULATION,DOMYOS,31,125,all,available,black,metal,200,70,70
+Appareil à Charge Guidée Home Gym Compact Musculation,MUSCULATION,DOMYOS,48,43,all,available,black,metal,100,100,200
+Rack de musculation - Traction / Squat / Développé couché / Tirage dos,MUSCULATION,DOMYOS,5,32,store_only,available,black,metal,150,100,200
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Station de musculation Home gym,MUSCULATION,ADIDAS,0,106,store_only,ordered,black,metal,150,100,200
+"Panier de basket enfant/adulte B900. 2,40m à 3,05m. Se règle et se range en 2mn.",BASKETBALL,TARMAK,46,161,all,available,black,metal & plastic & plexiglass,100,100,305
+"Panier de basket enfant/adulte B500. 2,40m à 3,05m. Se règle et se range en 1mn.",BASKETBALL,TARMAK,28,143,all,available,grey,metal & plastic & plexiglass,100,100,305
+"Panier de basket enfant/adulte B700 Pro. 2,40m à 3,05m. 7 hauteurs de jeu.",BASKETBALL,TARMAK,35,1,store_only,available,grey,metal & plastic & plexiglass,100,100,305
+Panier de Basket enfant/adulte B100 Easy Polycarbonate. Réglable sans outils .,BASKETBALL,TARMAK,1,25,all,available,black,polycarbonat,100,100,305
+"Panier de Basket enfant/adulte B100 Easy. Réglable sans outils de 2,20m à 3,05m.",BASKETBALL,TARMAK,48,20,all,available,black,metal & plastic & timber,100,100,305
+"Panier de Basket B100 noir pour enfant et adulte. Se règle de 2,20m à 3,05m.",BASKETBALL,TARMAK,0,160,web_only,sold_out,black,metal & plastic & timber,100,100,305
+"Panier de basket enfant B200 EASY bleu espace. 1,60m à 2,20m. Jusqu'à 10 ans.",BASKETBALL,TARMAK,4,14,all,available,black,plastic,100,100,220
+Panier de basket HOOP 500 Easy. Se transporte et s'installe partout facilement.,BASKETBALL,TARMAK,26,1,all,available,blue,plastic,50,50,220
+Panier de basket HOOP 500 Easy. Se transporte et s'installe partout facilement.,BASKETBALL,TARMAK,3,47,all,available,blue,plastic,50,50,220
+"Panier de basketball pour enfant K100 Monstre bleu. 0,9m à 1,2m. Jusqu'à 5 ans.",BASKETBALL,TARMAK,42,82,all,available,blue,plastic,50,50,120
+"Panier de basket enfant et adulte SPALDING NBA BEAST réglable de 2,30m à 3,05m.",BASKETBALL,SPALDING,36,35,all,available,black,plastic,100,100,305
+"Panier de basketball enfant K500 vaisseau bleu. 1,30m à 1,60m. Jusqu'à 8 ans.",BASKETBALL,TARMAK,25,125,all,available,blue,metal & plastic & plexiglass,50,50,160
+Sac de lestage pour panier de basket SB20KG,BASKETBALL,TARMAK,18,130,store_only,available,black,sand,100,100,30
+But de football SG 500 taille L marine/orange,SOCCER,KIPSTA,28,123,all,available,black,metal,700,100,200
+But de football SG 500 taille M marine,SOCCER,KIPSTA,45,117,store_only,available,black,metal,400,100,180
+But de football SG 500 taille S marine rouge vermillon,SOCCER,KIPSTA,22,143,store_only,available,black,metal,300,100,180
+But de football SG 500 taille M marine,SOCCER,KIPSTA,0,149,all,sold_out,white,metal,400,100,180
+But de football gonflable NG500S,SOCCER,KIPSTA,0,46,all,ordered,blue,plastic,150,50,100
+But de football Kage Jaune Bleue,SOCCER,KIPSTA,0,57,all,sold_out,yellow,metal,300,100,180
+But de football gonflable AIR KAGE PUMP rouge orange,SOCCER,KIPSTA,29,59,all,available,red,plastic,150,50,100
+But de football SG 100 taille L blanc,SOCCER,KIPSTA,46,180,all,available,white,metal,700,100,200
+But de football gonflable NG500S,SOCCER,KIPSTA,0,197,all,ordered,blue,plastic,150,50,100
+But de football SG 100 taille S blanc,SOCCER,KIPSTA,33,159,all,available,white,metal,300,100,180
+But de football gonflable NG500S,SOCCER,KIPSTA,29,186,all,available,white,plastic,150,50,100
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

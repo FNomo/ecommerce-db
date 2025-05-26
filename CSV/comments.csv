@@ -1,0 +1,1007 @@
+id user,id produit,grade,opinion,date,likes,dislikes
+207,160,3,Assez simple mais fait l’affaire,2022-09-21,2,0
+89,344,3,Moyen,2021-11-27,2,0
+176,65,3,Produit abordable,2015-03-29,3,1
+16,348,1,Produit a eviter,2015-02-02,2,0
+21,103,2,Assez simple mais fait l’affaire,2021-01-24,3,0
+335,597,4,J’imagine que ce produit sera elu produit de l’annee,2020-11-03,40,20
+595,138,1,Detestable.,2015-09-30,2,0
+561,417,3,Produit passable,2016-07-27,5,0
+66,159,5,J’ai adorer la maniere dont le produit est fait.,2026-08-27,4,0
+461,261,5,J’ai kiffer utiliser ce produit,2019-07-08,3,0
+64,266,4,J’ai kiffer utiliser ce produit,2018-03-16,6,0
+439,280,2,Produit passable,2018-05-27,25,8
+543,106,3,Pas exceptionnel mais acceptable,2018-06-04,35,2
+36,88,4,J’ai adorer la maniere dont le produit est fait.,2015-03-31,4,0
+140,349,3,Pas exceptionnel mais acceptable,2021-09-25,45,11
+575,550,3,Assez simple mais fait l’affaire,2019-07-06,7,7
+556,399,4,J’ai adorer la maniere dont le produit est fait.,2021-05-22,4,0
+413,395,4,J’ai adorer la maniere dont le produit est fait.,2020-09-10,7,0
+555,356,3,Assez simple mais fait l’affaire,2021-06-29,26,2
+394,446,3,Moyen,2012-01-09,5,0
+317,205,5,J’ai adorer la maniere dont le produit est fait.,2020-02-22,1,0
+430,456,4,Ce produit est le meilleur produit de tout les temps,2026-08-23,8,4
+460,299,5,J’ai kiffer utiliser ce produit,2026-07-13,8,1
+74,84,2,Produit passable,2029-05-04,4,0
+465,103,5,J’imagine que ce produit sera elu produit de l’annee,2012-04-11,7,0
+437,521,4,J’imagine que ce produit sera elu produit de l’annee,2015-02-23,7,1
+84,393,3,Assez simple mais fait l’affaire,2010-09-13,8,2
+470,418,4,J’ai kiffer utiliser ce produit,2021-12-14,0,0
+538,422,5,J’imagine que ce produit sera elu produit de l’annee,2020-05-15,1,0
+462,484,5,J’imagine que ce produit sera elu produit de l’annee,2011-12-03,4,0
+132,362,3,Pas exceptionnel mais acceptable,2014-04-10,9,9
+506,294,5,J’imagine que ce produit sera elu produit de l’annee,2016-04-08,2,0
+34,580,5,J’ai adorer la maniere dont le produit est fait.,2023-01-26,10,0
+247,300,3,Assez simple mais fait l’affaire,2019-02-19,8,0
+79,583,1,Ce produit est catastrophique,2024-10-21,5,1
+582,474,1,Ce produit est catastrophique,2018-04-26,5,0
+230,352,5,J’ai adorer la maniere dont le produit est fait.,2022-04-13,7,7
+125,247,4,J’imagine que ce produit sera elu produit de l’annee,2015-03-19,1,0
+450,581,2,Produit abordable,2011-07-25,49,7
+556,348,2,Assez simple mais fait l’affaire,2022-06-11,8,0
+458,148,5,Je me demande comment j’ai fait pour vivre sans ce produit,2015-12-31,7,0
+47,125,2,Moyen,2020-02-11,2,0
+63,568,3,Assez simple mais fait l’affaire,2015-08-12,27,3
+186,29,1,Produit a eviter,2013-08-26,6,0
+192,556,3,Produit abordable,2013-08-12,39,3
+469,18,4,J’imagine que ce produit sera elu produit de l’annee,2012-01-31,1,0
+375,169,4,J’imagine que ce produit sera elu produit de l’annee,2018-01-16,31,3
+562,81,4,J’ai kiffer utiliser ce produit,2019-02-27,9,3
+363,505,2,Pas exceptionnel mais acceptable,2017-03-20,9,0
+40,125,0,Perte d’argent sur ce produit.,2014-07-23,8,0
+3,167,0,Produit a vomir.,2020-01-28,43,3
+125,230,1,Ce produit est catastrophique,2015-08-25,25,3
+299,365,3,Pas exceptionnel mais acceptable,2014-01-10,18,1
+324,184,5,J’imagine que ce produit sera elu produit de l’annee,2012-10-23,2,0
+492,430,4,J’imagine que ce produit sera elu produit de l’annee,2017-04-23,24,8
+170,410,1,Produit a eviter,2016-02-22,4,0
+245,252,5,J’ai kiffer utiliser ce produit,2017-08-01,8,0
+575,289,0,Produit a vomir.,2026-01-20,8,4
+41,66,2,Pas exceptionnel mais acceptable,2013-04-05,9,3
+587,88,3,Assez simple mais fait l’affaire,2016-03-15,48,6
+425,4,4,J’ai adorer la maniere dont le produit est fait.,2017-11-16,26,8
+470,585,2,Pas exceptionnel mais acceptable,2020-10-21,0,0
+546,62,4,Ce produit est le meilleur produit de tout les temps,2021-06-03,7,7
+72,590,3,Produit passable,2022-10-07,7,0
+1,57,3,Assez simple mais fait l’affaire,2018-12-20,0,0
+444,40,4,J’imagine que ce produit sera elu produit de l’annee,2025-01-19,6,0
+254,115,4,J’imagine que ce produit sera elu produit de l’annee,2016-01-27,0,0
+212,41,1,Produit a eviter,2016-02-12,6,0
+364,461,1,Detestable.,2017-03-09,3,0
+448,446,4,J’ai kiffer utiliser ce produit,2020-08-08,5,1
+12,455,0,Produit a vomir.,2015-08-24,3,0
+576,65,4,J’imagine que ce produit sera elu produit de l’annee,2011-11-27,6,1
+15,385,2,Moyen,2016-07-21,4,4
+398,327,2,Assez simple mais fait l’affaire,2013-03-29,8,1
+285,426,4,J’imagine que ce produit sera elu produit de l’annee,2012-03-31,7,0
+368,199,3,Pas exceptionnel mais acceptable,2021-11-28,6,0
+303,480,5,J’ai kiffer utiliser ce produit,2013-09-25,9,4
+115,462,2,Assez simple mais fait l’affaire,2015-10-29,3,1
+172,361,3,Produit abordable,2025-05-17,29,9
+245,538,4,J’imagine que ce produit sera elu produit de l’annee,2015-08-07,7,0
+470,507,0,Perte d’argent sur ce produit.,2019-08-08,7,3
+553,214,4,Ce produit est le meilleur produit de tout les temps,2022-05-22,0,0
+96,159,2,Assez simple mais fait l’affaire,2013-10-06,7,1
+398,450,0,Ce produit est catastrophique,2021-12-30,9,1
+265,267,5,J’imagine que ce produit sera elu produit de l’annee,2016-03-27,23,1
+253,325,0,Produit a vomir.,2020-03-28,5,5
+123,448,0,Produit a eviter,2019-06-29,7,0
+172,333,4,Je me demande comment j’ai fait pour vivre sans ce produit,2031-06-06,23,3
+370,280,1,Perte d’argent sur ce produit.,2021-03-04,29,4
+170,217,2,Assez simple mais fait l’affaire,2020-01-25,4,2
+116,199,3,Produit abordable,2014-01-09,2,0
+294,82,0,Perte d’argent sur ce produit.,2026-09-05,4,0
+384,157,4,J’ai kiffer utiliser ce produit,2017-11-05,8,2
+203,343,3,Produit abordable,2013-02-05,8,8
+117,324,4,J’ai adorer la maniere dont le produit est fait.,2020-01-31,9,0
+353,26,5,Je me demande comment j’ai fait pour vivre sans ce produit,2019-02-20,0,0
+597,118,3,Pas exceptionnel mais acceptable,2025-01-29,2,0
+187,222,4,J’ai adorer la maniere dont le produit est fait.,2021-07-10,21,5
+548,28,0,Detestable.,2021-11-14,6,1
+487,22,2,Pas exceptionnel mais acceptable,2023-07-06,8,0
+397,109,0,Produit a vomir.,2021-05-30,6,0
+4,414,5,Ce produit est le meilleur produit de tout les temps,2017-03-28,4,0
+167,246,1,Produit a eviter,2024-04-06,8,2
+436,459,0,Produit a eviter,2013-11-13,5,0
+212,373,0,Detestable.,2013-01-14,3,0
+260,512,5,J’ai kiffer utiliser ce produit,2012-07-22,8,2
+527,279,0,Ce produit est catastrophique,2019-02-03,27,4
+305,12,3,Produit passable,2016-01-01,1,0
+481,27,4,Je me demande comment j’ai fait pour vivre sans ce produit,2019-01-12,5,0
+196,578,5,J’ai adorer la maniere dont le produit est fait.,2014-10-26,3,0
+375,114,3,Produit abordable,2018-11-08,4,0
+16,333,3,Pas exceptionnel mais acceptable,2017-09-05,8,0
+115,75,5,Je me demande comment j’ai fait pour vivre sans ce produit,2022-07-17,4,0
+1,559,5,Ce produit est le meilleur produit de tout les temps,2020-05-03,8,1
+304,303,5,Ce produit est le meilleur produit de tout les temps,2016-09-08,8,0
+567,24,4,J’ai kiffer utiliser ce produit,2014-05-18,1,0
+212,169,5,J’ai kiffer utiliser ce produit,2013-01-10,9,4
+461,208,4,J’ai adorer la maniere dont le produit est fait.,2023-08-20,4,0
+522,574,4,J’imagine que ce produit sera elu produit de l’annee,2022-02-28,9,1
+21,61,1,Produit a vomir.,2016-03-26,0,0
+538,461,5,Ce produit est le meilleur produit de tout les temps,2019-04-26,5,0
+220,211,5,J’imagine que ce produit sera elu produit de l’annee,2022-02-06,8,1
+397,68,3,Pas exceptionnel mais acceptable,2020-06-14,2,2
+108,552,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-10-06,1,1
+160,583,4,Ce produit est le meilleur produit de tout les temps,2015-05-29,4,0
+258,462,4,J’ai kiffer utiliser ce produit,2025-12-20,30,4
+5,536,5,J’imagine que ce produit sera elu produit de l’annee,2012-09-06,9,0
+244,256,1,Produit a vomir.,2015-01-08,4,0
+554,298,3,Produit passable,2020-06-27,9,1
+214,19,0,Produit a vomir.,2019-08-07,1,0
+162,580,4,Ce produit est le meilleur produit de tout les temps,2014-12-30,7,0
+46,2,1,Detestable.,2022-04-27,0,0
+302,277,4,J’imagine que ce produit sera elu produit de l’annee,2019-05-23,5,0
+51,198,5,Je me demande comment j’ai fait pour vivre sans ce produit,2022-04-05,5,0
+176,274,3,Produit abordable,2019-12-06,5,0
+565,584,4,J’imagine que ce produit sera elu produit de l’annee,2012-12-12,5,0
+103,367,5,Ce produit est le meilleur produit de tout les temps,2014-07-04,3,0
+249,501,0,Detestable.,2015-09-28,1,0
+139,374,3,Pas exceptionnel mais acceptable,2013-07-10,6,6
+381,94,0,Detestable.,2020-02-16,8,0
+272,418,2,Moyen,2017-11-13,3,0
+94,31,3,Moyen,2011-01-27,17,1
+101,212,4,J’ai adorer la maniere dont le produit est fait.,2017-01-31,1,0
+584,164,5,Je me demande comment j’ai fait pour vivre sans ce produit,2017-05-29,2,1
+231,75,5,J’imagine que ce produit sera elu produit de l’annee,2025-06-03,49,5
+485,465,3,Produit abordable,2019-11-05,7,0
+411,580,4,Ce produit est le meilleur produit de tout les temps,2018-05-10,6,0
+147,191,3,Produit abordable,2021-04-16,9,3
+54,224,3,Pas exceptionnel mais acceptable,2014-05-19,6,0
+68,531,5,Je me demande comment j’ai fait pour vivre sans ce produit,2017-05-07,49,9
+259,360,4,J’ai adorer la maniere dont le produit est fait.,2016-04-01,1,0
+97,166,0,Ce produit est catastrophique,2020-11-07,15,1
+185,538,4,J’imagine que ce produit sera elu produit de l’annee,2012-01-16,8,1
+109,276,3,Assez simple mais fait l’affaire,2015-09-25,1,0
+495,329,3,Assez simple mais fait l’affaire,2023-08-09,9,4
+312,263,4,J’ai kiffer utiliser ce produit,2015-01-06,7,0
+369,282,3,Produit passable,2018-12-17,1,0
+221,247,3,Assez simple mais fait l’affaire,2022-02-25,0,0
+71,98,4,J’ai adorer la maniere dont le produit est fait.,2010-12-19,7,3
+29,101,3,Assez simple mais fait l’affaire,2023-08-12,8,0
+69,502,2,Pas exceptionnel mais acceptable,2023-03-14,0,0
+339,99,3,Produit abordable,2018-10-12,8,1
+234,557,4,Je me demande comment j’ai fait pour vivre sans ce produit,2023-06-05,6,0
+9,183,5,J’ai kiffer utiliser ce produit,2015-07-30,5,0
+95,348,3,Pas exceptionnel mais acceptable,2019-02-12,3,0
+563,417,0,Produit a eviter,2019-07-24,4,4
+195,36,3,Moyen,2025-05-27,2,0
+64,195,1,Produit a eviter,2015-04-17,4,0
+483,326,4,J’imagine que ce produit sera elu produit de l’annee,2022-06-19,6,0
+428,149,3,Produit abordable,2019-11-25,5,0
+16,393,1,Produit a eviter,2014-09-02,5,0
+142,183,5,J’ai adorer la maniere dont le produit est fait.,2014-04-21,0,0
+388,498,1,Perte d’argent sur ce produit.,2021-03-16,5,0
+109,482,2,Produit passable,2019-10-22,25,3
+244,270,3,Assez simple mais fait l’affaire,2017-06-01,5,0
+581,580,3,Moyen,2024-06-27,5,1
+466,177,4,J’ai adorer la maniere dont le produit est fait.,2014-01-13,0,0
+524,47,3,Moyen,2012-05-13,0,0
+479,434,5,Je me demande comment j’ai fait pour vivre sans ce produit,2024-04-05,8,1
+277,291,5,Ce produit est le meilleur produit de tout les temps,2017-04-13,7,0
+336,171,3,Produit passable,2014-10-08,10,5
+318,144,3,Moyen,2016-05-01,4,0
+327,498,2,Pas exceptionnel mais acceptable,2019-09-28,3,0
+16,482,0,Produit a vomir.,2012-05-25,9,1
+575,238,5,Ce produit est le meilleur produit de tout les temps,2022-12-14,8,1
+509,329,0,Ce produit est catastrophique,2028-01-11,2,2
+364,9,3,Produit abordable,2017-02-08,2,0
+494,407,4,J’ai adorer la maniere dont le produit est fait.,2018-08-30,3,0
+129,267,3,Produit abordable,2023-04-25,2,0
+548,104,1,Perte d’argent sur ce produit.,2025-08-03,5,0
+503,442,3,Produit abordable,2022-02-05,7,1
+318,274,4,Je me demande comment j’ai fait pour vivre sans ce produit,2021-01-10,5,0
+496,21,5,Ce produit est le meilleur produit de tout les temps,2017-06-06,5,0
+58,589,5,J’ai adorer la maniere dont le produit est fait.,2020-11-22,8,2
+431,155,3,Pas exceptionnel mais acceptable,2016-10-26,3,0
+157,147,5,Je me demande comment j’ai fait pour vivre sans ce produit,2011-06-23,0,0
+304,301,0,Perte d’argent sur ce produit.,2012-12-16,0,0
+381,87,1,Produit a vomir.,2020-08-21,7,0
+105,61,3,Produit abordable,2012-06-06,32,6
+268,486,5,J’imagine que ce produit sera elu produit de l’annee,2020-03-10,5,0
+457,558,5,Ce produit est le meilleur produit de tout les temps,2015-04-13,2,0
+317,458,1,Ce produit est catastrophique,2017-02-12,7,0
+527,290,2,Moyen,2016-03-05,2,0
+394,92,5,Je me demande comment j’ai fait pour vivre sans ce produit,2013-09-01,1,0
+423,548,3,Moyen,2019-10-22,7,0
+47,106,0,Perte d’argent sur ce produit.,2019-08-21,4,0
+85,492,4,J’ai kiffer utiliser ce produit,2017-07-02,9,4
+22,280,4,J’ai adorer la maniere dont le produit est fait.,2015-09-30,8,8
+552,243,4,J’ai adorer la maniere dont le produit est fait.,2017-04-13,5,0
+489,53,4,J’ai adorer la maniere dont le produit est fait.,2022-10-20,5,0
+39,303,5,J’ai adorer la maniere dont le produit est fait.,2022-11-08,7,1
+504,225,2,Assez simple mais fait l’affaire,2013-11-03,9,0
+231,119,5,J’imagine que ce produit sera elu produit de l’annee,2020-11-29,7,2
+72,445,5,J’ai kiffer utiliser ce produit,2021-12-02,2,0
+185,301,1,Produit a vomir.,2019-05-18,7,0
+131,156,4,Ce produit est le meilleur produit de tout les temps,2022-06-22,3,0
+25,503,3,Produit abordable,2015-10-11,4,0
+562,451,5,J’ai adorer la maniere dont le produit est fait.,2025-01-02,7,0
+114,110,3,Assez simple mais fait l’affaire,2018-10-05,9,0
+178,452,3,Assez simple mais fait l’affaire,2015-05-25,5,0
+318,405,4,Je me demande comment j’ai fait pour vivre sans ce produit,2019-04-24,24,6
+147,577,3,Produit abordable,2022-01-23,3,0
+154,285,5,J’ai adorer la maniere dont le produit est fait.,2017-03-08,5,0
+316,326,5,J’imagine que ce produit sera elu produit de l’annee,2016-07-21,37,6
+64,463,2,Moyen,2016-03-26,9,1
+464,596,5,J’imagine que ce produit sera elu produit de l’annee,2024-01-05,45,3
+59,449,5,J’ai adorer la maniere dont le produit est fait.,2020-01-05,4,0
+135,8,3,Produit abordable,2026-07-14,9,9
+260,571,2,Produit passable,2013-10-04,4,0
+510,565,4,J’ai kiffer utiliser ce produit,2023-05-16,6,0
+88,174,5,J’ai adorer la maniere dont le produit est fait.,2013-01-21,4,0
+381,48,0,Perte d’argent sur ce produit.,2016-07-07,10,1
+274,84,4,Ce produit est le meilleur produit de tout les temps,2018-11-20,8,0
+496,413,2,Assez simple mais fait l’affaire,2017-02-24,9,1
+132,64,0,Detestable.,2017-05-30,7,1
+290,540,5,J’ai kiffer utiliser ce produit,2027-04-02,1,0
+326,98,0,Detestable.,2014-01-13,25,8
+510,402,4,J’ai adorer la maniere dont le produit est fait.,2023-09-19,7,1
+298,597,5,Je me demande comment j’ai fait pour vivre sans ce produit,2021-10-19,5,5
+465,320,5,Je me demande comment j’ai fait pour vivre sans ce produit,2011-03-03,1,1
+318,432,4,J’ai kiffer utiliser ce produit,2016-11-18,2,1
+430,548,0,Perte d’argent sur ce produit.,2021-11-28,33,4
+456,263,3,Moyen,2014-02-28,9,9
+480,157,2,Produit passable,2010-05-03,7,2
+222,590,5,Je me demande comment j’ai fait pour vivre sans ce produit,2022-04-22,1,0
+167,172,1,Detestable.,2019-02-10,11,1
+409,85,5,Ce produit est le meilleur produit de tout les temps,2015-10-04,6,3
+508,369,3,Pas exceptionnel mais acceptable,2017-11-13,10,2
+250,347,3,Produit passable,2015-05-21,6,0
+597,133,0,Detestable.,2020-09-29,0,0
+89,444,5,J’ai kiffer utiliser ce produit,2019-08-14,2,0
+193,420,4,J’imagine que ce produit sera elu produit de l’annee,2018-03-31,8,0
+290,322,2,Pas exceptionnel mais acceptable,2028-05-08,9,2
+270,353,4,J’ai adorer la maniere dont le produit est fait.,2020-08-18,18,1
+407,420,0,Produit a vomir.,2020-01-17,5,0
+305,474,5,J’ai kiffer utiliser ce produit,2014-09-13,0,0
+235,105,4,J’imagine que ce produit sera elu produit de l’annee,2013-05-09,4,0
+560,249,4,J’ai adorer la maniere dont le produit est fait.,2019-11-24,3,0
+449,139,3,Assez simple mais fait l’affaire,2025-05-30,6,1
+300,371,0,Produit a vomir.,2024-02-27,9,4
+431,401,4,Je me demande comment j’ai fait pour vivre sans ce produit,2014-11-30,9,0
+168,497,2,Produit abordable,2021-04-08,4,0
+537,165,5,J’imagine que ce produit sera elu produit de l’annee,2011-11-26,5,0
+26,268,5,J’imagine que ce produit sera elu produit de l’annee,2021-06-23,4,4
+247,189,3,Produit abordable,2021-12-09,8,1
+239,110,1,Ce produit est catastrophique,2023-02-19,4,0
+388,8,3,Produit abordable,2024-06-20,4,2
+598,278,5,J’imagine que ce produit sera elu produit de l’annee,2017-05-20,0,0
+116,381,4,Je me demande comment j’ai fait pour vivre sans ce produit,2016-12-26,0,0
+202,189,3,Assez simple mais fait l’affaire,2018-08-03,6,0
+240,563,4,J’ai kiffer utiliser ce produit,2024-02-02,5,0
+275,178,2,Produit passable,2024-02-23,8,2
+368,81,4,J’ai adorer la maniere dont le produit est fait.,2018-02-21,5,2
+511,318,4,J’ai kiffer utiliser ce produit,2020-10-28,9,1
+202,130,3,Pas exceptionnel mais acceptable,2013-02-13,0,0
+338,230,4,J’ai adorer la maniere dont le produit est fait.,2020-12-05,5,0
+6,583,3,Pas exceptionnel mais acceptable,2019-08-13,1,1
+38,472,3,Produit abordable,2020-04-19,30,2
+67,460,5,J’ai kiffer utiliser ce produit,2011-10-13,0,0
+52,220,5,J’ai adorer la maniere dont le produit est fait.,2011-03-08,0,0
+179,318,0,Detestable.,2026-12-09,7,3
+247,174,4,Ce produit est le meilleur produit de tout les temps,2016-12-27,12,12
+46,93,3,Pas exceptionnel mais acceptable,2024-06-09,6,0
+473,257,2,Moyen,2022-01-18,41,41
+565,261,2,Produit passable,2013-10-24,7,0
+315,296,3,Produit passable,2023-10-29,9,1
+581,153,0,Perte d’argent sur ce produit.,2023-03-30,3,0
+277,347,4,J’imagine que ce produit sera elu produit de l’annee,2021-03-20,18,6
+266,598,5,Ce produit est le meilleur produit de tout les temps,2017-05-21,5,0
+98,226,5,J’imagine que ce produit sera elu produit de l’annee,2025-03-26,8,0
+220,127,2,Produit passable,2030-09-08,0,0
+13,329,4,J’imagine que ce produit sera elu produit de l’annee,2025-05-23,2,0
+139,589,5,Je me demande comment j’ai fait pour vivre sans ce produit,2013-06-01,0,0
+499,545,0,Ce produit est catastrophique,2024-08-16,7,0
+149,138,3,Pas exceptionnel mais acceptable,2016-12-26,1,0
+74,191,2,Produit abordable,2021-08-31,1,0
+329,573,3,Produit passable,2013-01-21,0,0
+59,221,4,J’ai adorer la maniere dont le produit est fait.,2019-08-14,1,0
+18,121,1,Perte d’argent sur ce produit.,2022-09-18,0,0
+554,192,3,Produit passable,2020-07-03,3,0
+512,483,5,J’ai adorer la maniere dont le produit est fait.,2022-04-19,2,0
+210,61,3,Moyen,2014-03-01,7,2
+361,456,5,J’ai kiffer utiliser ce produit,2023-12-18,5,0
+341,371,3,Produit abordable,2016-01-26,8,1
+102,33,4,J’ai adorer la maniere dont le produit est fait.,2014-04-21,0,0
+451,8,5,Ce produit est le meilleur produit de tout les temps,2023-04-20,7,1
+138,54,3,Produit abordable,2019-05-17,44,22
+7,174,5,J’ai adorer la maniere dont le produit est fait.,2027-01-26,41,2
+558,211,3,Produit abordable,2018-06-11,8,0
+548,363,5,J’ai adorer la maniere dont le produit est fait.,2020-02-16,3,0
+121,515,0,Produit a eviter,2019-09-19,8,4
+246,506,5,J’ai kiffer utiliser ce produit,2018-04-17,32,3
+102,547,4,Je me demande comment j’ai fait pour vivre sans ce produit,2013-07-30,3,0
+472,30,3,Produit passable,2018-03-19,9,2
+363,95,4,J’imagine que ce produit sera elu produit de l’annee,2021-05-26,9,2
+576,154,5,J’ai kiffer utiliser ce produit,2013-11-16,2,0
+573,38,4,J’imagine que ce produit sera elu produit de l’annee,2018-12-26,8,1
+10,336,3,Moyen,2012-05-17,6,0
+87,566,3,Assez simple mais fait l’affaire,2018-05-24,5,1
+533,566,3,Produit passable,2013-01-24,7,2
+76,350,1,Ce produit est catastrophique,2022-05-07,8,0
+115,453,4,J’ai adorer la maniere dont le produit est fait.,2016-03-20,5,0
+496,25,3,Pas exceptionnel mais acceptable,2015-03-15,1,0
+159,313,5,J’ai kiffer utiliser ce produit,2017-01-06,6,0
+486,565,4,J’ai kiffer utiliser ce produit,2013-04-10,8,0
+293,37,1,Ce produit est catastrophique,2013-02-08,8,0
+64,169,4,Je me demande comment j’ai fait pour vivre sans ce produit,2015-08-21,1,0
+455,576,0,Detestable.,2011-10-24,3,0
+96,330,5,J’imagine que ce produit sera elu produit de l’annee,2011-02-04,1,1
+153,156,2,Assez simple mais fait l’affaire,2026-03-23,6,2
+157,285,0,Produit a eviter,2020-05-19,3,1
+433,595,4,J’imagine que ce produit sera elu produit de l’annee,2022-05-27,2,0
+398,599,5,Ce produit est le meilleur produit de tout les temps,2016-04-27,0,0
+109,277,3,Assez simple mais fait l’affaire,2016-10-29,2,0
+323,551,5,Je me demande comment j’ai fait pour vivre sans ce produit,2021-04-11,9,0
+314,282,1,Produit a vomir.,2017-07-11,5,5
+401,448,3,Assez simple mais fait l’affaire,2017-06-28,5,0
+182,263,4,J’imagine que ce produit sera elu produit de l’annee,2014-07-22,6,1
+49,35,2,Assez simple mais fait l’affaire,2019-11-17,3,0
+243,305,3,Assez simple mais fait l’affaire,2016-07-14,8,1
+294,208,2,Moyen,2018-07-17,0,0
+377,214,3,Produit passable,2020-04-27,4,2
+22,272,0,Ce produit est catastrophique,2012-02-04,7,0
+42,60,4,Ce produit est le meilleur produit de tout les temps,2018-10-24,3,0
+236,72,3,Produit passable,2019-07-11,9,0
+556,318,4,J’ai adorer la maniere dont le produit est fait.,2026-06-29,0,0
+554,496,5,Ce produit est le meilleur produit de tout les temps,2018-10-16,6,6
+459,506,3,Pas exceptionnel mais acceptable,2018-08-11,3,0
+326,355,5,Je me demande comment j’ai fait pour vivre sans ce produit,2016-07-07,1,1
+447,326,1,Ce produit est catastrophique,2021-09-21,7,3
+586,314,1,Produit a eviter,2014-07-08,1,0
+226,367,3,Moyen,2011-09-20,6,2
+597,275,1,Produit a vomir.,2020-10-13,7,1
+460,105,4,J’ai adorer la maniere dont le produit est fait.,2024-01-17,7,0
+301,468,5,J’imagine que ce produit sera elu produit de l’annee,2012-12-23,5,0
+155,50,4,J’ai adorer la maniere dont le produit est fait.,2011-06-21,7,1
+450,114,5,Je me demande comment j’ai fait pour vivre sans ce produit,2011-02-03,5,0
+160,124,5,J’ai kiffer utiliser ce produit,2016-07-06,2,0
+176,447,1,Produit a eviter,2015-08-17,1,0
+550,250,3,Produit abordable,2020-02-14,9,0
+335,582,1,Produit a eviter,2028-05-08,12,12
+184,553,5,J’ai kiffer utiliser ce produit,2021-03-22,5,1
+334,77,4,Ce produit est le meilleur produit de tout les temps,2013-03-11,4,0
+27,196,5,J’imagine que ce produit sera elu produit de l’annee,2026-03-25,19,6
+95,54,3,Moyen,2018-11-25,16,16
+504,322,3,Assez simple mais fait l’affaire,2021-08-25,9,3
+488,403,4,J’ai kiffer utiliser ce produit,2013-08-27,2,0
+322,33,2,Assez simple mais fait l’affaire,2013-05-01,0,0
+253,128,5,J’ai kiffer utiliser ce produit,2020-07-10,0,0
+512,547,0,Ce produit est catastrophique,2027-06-03,7,0
+533,288,1,Ce produit est catastrophique,2013-09-06,9,0
+510,224,5,Je me demande comment j’ai fait pour vivre sans ce produit,2019-05-04,5,0
+427,146,2,Pas exceptionnel mais acceptable,2018-10-13,1,0
+460,399,3,Moyen,2021-08-11,2,0
+504,58,5,J’ai adorer la maniere dont le produit est fait.,2016-06-18,3,0
+346,530,1,Produit a eviter,2020-05-10,0,0
+593,146,5,J’ai adorer la maniere dont le produit est fait.,2013-01-14,9,0
+99,370,3,Pas exceptionnel mais acceptable,2019-06-27,1,0
+348,10,5,J’ai kiffer utiliser ce produit,2016-01-06,13,1
+486,224,5,J’ai adorer la maniere dont le produit est fait.,2012-12-19,9,0
+232,218,5,Ce produit est le meilleur produit de tout les temps,2018-06-25,7,1
+368,285,3,Moyen,2025-07-28,7,1
+452,101,2,Assez simple mais fait l’affaire,2014-04-28,1,0
+570,418,3,Moyen,2012-01-29,28,28
+558,139,3,Moyen,2021-04-05,8,2
+357,144,2,Produit abordable,2018-10-17,7,0
+341,541,4,J’imagine que ce produit sera elu produit de l’annee,2024-03-21,3,1
+142,476,3,Pas exceptionnel mais acceptable,2018-05-01,8,0
+38,313,2,Moyen,2016-03-13,3,0
+103,190,0,Produit a eviter,2020-05-24,7,7
+67,281,5,J’ai adorer la maniere dont le produit est fait.,2012-07-04,1,0
+544,79,5,J’imagine que ce produit sera elu produit de l’annee,2015-07-22,0,0
+280,72,3,Pas exceptionnel mais acceptable,2014-06-15,3,1
+445,494,2,Moyen,2014-09-27,9,2
+280,437,5,Je me demande comment j’ai fait pour vivre sans ce produit,2016-11-18,2,0
+312,41,5,J’imagine que ce produit sera elu produit de l’annee,2010-07-25,6,0
+278,193,3,Produit abordable,2021-07-13,0,0
+592,67,1,Produit a eviter,2016-01-01,7,0
+323,395,0,Produit a eviter,2019-11-16,1,0
+81,339,4,J’imagine que ce produit sera elu produit de l’annee,2020-12-24,6,0
+595,550,2,Pas exceptionnel mais acceptable,2017-01-06,9,3
+580,375,2,Produit abordable,2016-12-29,0,0
+206,391,5,J’ai adorer la maniere dont le produit est fait.,2022-12-06,49,24
+45,313,4,J’ai adorer la maniere dont le produit est fait.,2013-07-09,3,3
+160,332,5,Je me demande comment j’ai fait pour vivre sans ce produit,2014-04-20,6,0
+3,202,0,Perte d’argent sur ce produit.,2021-09-27,3,0
+99,360,5,Ce produit est le meilleur produit de tout les temps,2022-12-18,9,0
+356,273,0,Produit a eviter,2017-06-27,5,0
+48,253,0,Produit a eviter,2012-07-02,6,0
+7,233,0,Detestable.,2021-11-04,2,0
+533,320,1,Ce produit est catastrophique,2010-10-11,7,3
+400,464,3,Produit abordable,2021-07-23,5,2
+182,18,1,Perte d’argent sur ce produit.,2014-01-24,5,5
+170,371,4,J’ai adorer la maniere dont le produit est fait.,2021-03-26,3,0
+300,437,5,J’imagine que ce produit sera elu produit de l’annee,2020-09-09,8,8
+269,222,0,Perte d’argent sur ce produit.,2023-12-11,9,4
+245,238,4,J’ai kiffer utiliser ce produit,2015-11-16,1,0
+347,413,5,J’ai adorer la maniere dont le produit est fait.,2019-09-24,3,0
+11,277,1,Detestable.,2015-06-11,9,0
+528,114,2,Assez simple mais fait l’affaire,2021-05-30,15,5
+369,311,5,J’imagine que ce produit sera elu produit de l’annee,2019-08-21,3,0
+191,363,5,Ce produit est le meilleur produit de tout les temps,2016-03-29,9,4
+31,306,5,Ce produit est le meilleur produit de tout les temps,2019-01-09,2,0
+420,366,1,Perte d’argent sur ce produit.,2023-01-21,5,0
+297,53,1,Perte d’argent sur ce produit.,2020-06-29,5,0
+562,504,4,Ce produit est le meilleur produit de tout les temps,2020-03-05,2,0
+281,50,3,Assez simple mais fait l’affaire,2025-04-06,3,0
+130,587,3,Moyen,2019-07-01,4,0
+98,147,3,Produit abordable,2020-07-26,0,0
+99,512,5,J’ai adorer la maniere dont le produit est fait.,2020-05-18,5,0
+575,79,1,Produit a vomir.,2018-03-01,7,0
+588,538,1,Produit a vomir.,2020-12-14,30,2
+441,202,3,Produit abordable,2027-06-06,9,9
+266,403,5,J’ai kiffer utiliser ce produit,2018-06-19,4,0
+598,478,4,Ce produit est le meilleur produit de tout les temps,2020-12-07,8,1
+428,179,3,Pas exceptionnel mais acceptable,2016-06-30,6,0
+598,135,0,Perte d’argent sur ce produit.,2019-06-11,21,2
+66,572,1,Detestable.,2020-10-13,36,3
+278,498,3,Pas exceptionnel mais acceptable,2019-04-05,9,0
+85,539,5,J’imagine que ce produit sera elu produit de l’annee,2013-10-17,0,0
+415,107,5,J’imagine que ce produit sera elu produit de l’annee,2016-06-16,1,0
+34,215,4,J’ai kiffer utiliser ce produit,2017-05-15,7,0
+131,162,5,Je me demande comment j’ai fait pour vivre sans ce produit,2021-10-04,9,1
+128,196,3,Pas exceptionnel mais acceptable,2021-12-28,6,1
+4,37,5,Ce produit est le meilleur produit de tout les temps,2016-04-10,4,1
+420,477,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-11-13,4,2
+313,151,3,Pas exceptionnel mais acceptable,2023-12-25,23,2
+1,396,3,Produit abordable,2018-02-20,1,0
+363,23,3,Assez simple mais fait l’affaire,2019-07-28,25,3
+200,88,3,Produit passable,2018-11-05,9,0
+417,217,1,Produit a vomir.,2014-05-08,7,0
+297,425,3,Pas exceptionnel mais acceptable,2021-09-23,1,0
+462,583,5,J’ai kiffer utiliser ce produit,2017-07-04,42,6
+361,47,3,Assez simple mais fait l’affaire,2017-06-06,4,0
+445,167,5,J’imagine que ce produit sera elu produit de l’annee,2014-05-02,5,0
+553,194,5,J’imagine que ce produit sera elu produit de l’annee,2026-10-28,5,0
+508,193,4,Je me demande comment j’ai fait pour vivre sans ce produit,2017-08-01,2,0
+16,106,0,Produit a eviter,2016-11-29,9,0
+103,260,1,Produit a vomir.,2019-10-03,8,1
+272,198,3,Produit abordable,2020-08-11,5,0
+350,114,3,Assez simple mais fait l’affaire,2019-12-15,2,0
+115,505,3,Moyen,2016-06-06,4,0
+249,281,3,Assez simple mais fait l’affaire,2016-03-13,6,1
+402,492,3,Assez simple mais fait l’affaire,2015-05-19,8,0
+545,201,4,Ce produit est le meilleur produit de tout les temps,2017-08-09,9,1
+103,383,1,Produit a vomir.,2015-03-08,1,0
+441,107,3,Pas exceptionnel mais acceptable,2018-04-07,6,0
+404,486,4,Ce produit est le meilleur produit de tout les temps,2024-02-12,9,1
+95,488,3,Assez simple mais fait l’affaire,2020-10-22,15,3
+470,79,4,J’ai kiffer utiliser ce produit,2019-06-28,2,0
+579,362,5,Je me demande comment j’ai fait pour vivre sans ce produit,2016-01-26,7,0
+373,257,0,Ce produit est catastrophique,2021-11-07,8,2
+464,112,5,Je me demande comment j’ai fait pour vivre sans ce produit,2022-12-08,7,1
+508,164,5,J’ai adorer la maniere dont le produit est fait.,2021-08-16,7,3
+147,440,1,Detestable.,2024-12-17,6,2
+239,545,2,Produit passable,2013-03-12,7,1
+127,144,2,Pas exceptionnel mais acceptable,2012-10-30,4,0
+36,159,4,Ce produit est le meilleur produit de tout les temps,2018-09-11,6,0
+525,64,5,Je me demande comment j’ai fait pour vivre sans ce produit,2020-08-03,8,0
+139,543,3,Assez simple mais fait l’affaire,2015-06-27,2,0
+513,309,4,J’ai kiffer utiliser ce produit,2015-03-28,7,0
+141,97,1,Detestable.,2019-03-04,2,0
+548,334,0,Perte d’argent sur ce produit.,2024-09-20,7,0
+267,186,3,Produit abordable,2016-06-08,39,2
+428,406,2,Moyen,2019-05-04,4,4
+511,503,5,Ce produit est le meilleur produit de tout les temps,2020-11-27,5,1
+21,277,2,Moyen,2014-07-13,8,1
+111,580,5,J’imagine que ce produit sera elu produit de l’annee,2018-05-20,8,1
+531,476,5,J’ai kiffer utiliser ce produit,2026-10-11,3,0
+135,21,4,J’ai adorer la maniere dont le produit est fait.,2018-04-20,6,0
+402,264,3,Assez simple mais fait l’affaire,2015-08-12,7,1
+431,319,3,Pas exceptionnel mais acceptable,2020-03-05,0,0
+32,414,3,Produit passable,2021-02-26,8,4
+111,230,4,Ce produit est le meilleur produit de tout les temps,2019-09-19,47,3
+203,72,3,Assez simple mais fait l’affaire,2017-05-17,5,1
+169,484,3,Moyen,2016-04-04,5,1
+419,564,4,J’imagine que ce produit sera elu produit de l’annee,2014-08-20,7,0
+225,201,5,J’ai kiffer utiliser ce produit,2019-11-25,3,0
+364,452,4,Je me demande comment j’ai fait pour vivre sans ce produit,2025-05-14,42,10
+38,48,5,J’imagine que ce produit sera elu produit de l’annee,2017-02-23,5,1
+174,85,1,Perte d’argent sur ce produit.,2016-05-04,9,0
+70,588,5,J’ai adorer la maniere dont le produit est fait.,2020-06-19,6,0
+597,73,2,Moyen,2019-05-21,9,1
+332,40,2,Pas exceptionnel mais acceptable,2021-07-14,1,0
+385,480,4,Ce produit est le meilleur produit de tout les temps,2017-11-05,1,0
+38,598,5,Je me demande comment j’ai fait pour vivre sans ce produit,2015-02-16,18,2
+279,511,5,Ce produit est le meilleur produit de tout les temps,2020-04-26,2,0
+481,247,3,Moyen,2019-06-22,14,2
+159,177,5,Ce produit est le meilleur produit de tout les temps,2015-09-03,0,0
+482,339,2,Produit passable,2014-03-15,1,0
+553,178,0,Produit a vomir.,2022-11-29,6,1
+441,482,5,J’ai kiffer utiliser ce produit,2025-10-27,1,0
+599,169,5,J’imagine que ce produit sera elu produit de l’annee,2019-11-19,5,5
+449,243,4,Je me demande comment j’ai fait pour vivre sans ce produit,2025-06-18,6,0
+215,62,0,Ce produit est catastrophique,2027-06-03,1,0
+302,210,5,Je me demande comment j’ai fait pour vivre sans ce produit,2021-08-25,2,0
+235,306,4,J’imagine que ce produit sera elu produit de l’annee,2011-08-18,7,1
+256,496,3,Moyen,2022-04-22,4,1
+88,600,3,Pas exceptionnel mais acceptable,2012-07-05,6,0
+14,256,3,Pas exceptionnel mais acceptable,2021-07-08,1,0
+277,247,3,Produit passable,2020-05-15,0,0
+136,53,3,Produit passable,2017-06-01,6,0
+286,172,4,J’ai kiffer utiliser ce produit,2015-06-27,9,4
+557,406,5,Je me demande comment j’ai fait pour vivre sans ce produit,2011-06-11,7,2
+85,416,4,J’imagine que ce produit sera elu produit de l’annee,2013-10-30,3,0
+471,52,5,Ce produit est le meilleur produit de tout les temps,2020-07-14,19,3
+98,466,5,J’ai adorer la maniere dont le produit est fait.,2026-07-17,1,0
+261,530,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-10-04,4,0
+252,71,3,Produit passable,2016-03-24,9,0
+325,379,5,J’imagine que ce produit sera elu produit de l’annee,2015-07-30,42,10
+570,166,1,Perte d’argent sur ce produit.,2013-05-13,33,2
+316,341,5,J’ai adorer la maniere dont le produit est fait.,2016-08-08,6,0
+405,258,1,Perte d’argent sur ce produit.,2015-11-09,5,0
+195,541,4,J’imagine que ce produit sera elu produit de l’annee,2027-05-27,0,0
+488,118,2,Produit passable,2019-04-29,2,0
+227,424,1,Detestable.,2011-10-03,9,1
+430,78,0,Ce produit est catastrophique,2023-12-19,2,0
+68,78,4,J’imagine que ce produit sera elu produit de l’annee,2020-07-29,1,0
+600,220,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-11-05,6,1
+267,257,3,Pas exceptionnel mais acceptable,2018-12-03,9,1
+265,288,4,J’imagine que ce produit sera elu produit de l’annee,2017-06-03,4,4
+414,95,3,Assez simple mais fait l’affaire,2023-04-25,9,1
+189,459,2,Produit abordable,2015-02-06,33,3
+176,429,5,J’ai kiffer utiliser ce produit,2015-02-18,3,0
+180,293,5,J’ai kiffer utiliser ce produit,2014-01-09,9,0
+498,388,0,Produit a eviter,2020-01-10,2,0
+204,21,5,J’ai adorer la maniere dont le produit est fait.,2024-05-15,42,3
+136,218,4,J’imagine que ce produit sera elu produit de l’annee,2018-02-22,3,0
+413,383,3,Produit passable,2021-02-20,9,1
+362,163,4,J’imagine que ce produit sera elu produit de l’annee,2017-09-06,2,0
+106,297,2,Assez simple mais fait l’affaire,2012-11-12,36,4
+61,173,4,J’imagine que ce produit sera elu produit de l’annee,2027-10-21,7,0
+355,123,2,Pas exceptionnel mais acceptable,2019-09-29,7,0
+4,348,4,J’imagine que ce produit sera elu produit de l’annee,2025-03-23,8,0
+393,271,5,J’ai kiffer utiliser ce produit,2017-03-20,2,0
+454,7,2,Produit abordable,2023-01-29,3,0
+12,440,3,Produit passable,2016-02-06,9,0
+136,428,4,J’ai kiffer utiliser ce produit,2020-03-07,0,0
+519,273,3,Produit abordable,2010-07-15,12,1
+508,439,3,Produit passable,2016-10-02,6,0
+201,16,3,Moyen,2022-08-05,27,2
+60,318,5,J’imagine que ce produit sera elu produit de l’annee,2019-11-22,8,1
+19,161,3,Assez simple mais fait l’affaire,2022-10-10,4,0
+248,11,3,Assez simple mais fait l’affaire,2012-12-11,8,0
+461,401,3,Pas exceptionnel mais acceptable,2021-06-30,9,0
+448,244,4,J’ai kiffer utiliser ce produit,2027-09-05,7,0
+199,374,0,Produit a vomir.,2017-09-30,5,0
+231,46,5,J’imagine que ce produit sera elu produit de l’annee,2018-07-09,0,0
+209,150,4,Je me demande comment j’ai fait pour vivre sans ce produit,2017-07-26,0,0
+227,57,3,Produit passable,2012-03-16,9,0
+83,119,1,Detestable.,2020-10-12,2,0
+106,401,1,Detestable.,2016-10-12,2,0
+482,179,3,Moyen,2013-07-22,8,0
+6,252,5,J’imagine que ce produit sera elu produit de l’annee,2020-10-11,9,1
+362,422,4,J’ai kiffer utiliser ce produit,2017-12-19,2,0
+134,71,4,J’ai adorer la maniere dont le produit est fait.,2017-05-21,2,0
+380,109,1,Detestable.,2012-09-22,2,2
+417,301,2,Assez simple mais fait l’affaire,2014-08-30,3,0
+231,7,3,Assez simple mais fait l’affaire,2018-12-05,5,0
+205,319,0,Detestable.,2018-12-01,1,0
+249,355,3,Pas exceptionnel mais acceptable,2016-08-07,24,8
+101,288,4,J’ai kiffer utiliser ce produit,2015-01-24,3,0
+129,473,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-11-23,3,0
+151,398,2,Moyen,2017-12-09,7,0
+471,295,4,Ce produit est le meilleur produit de tout les temps,2020-05-27,5,0
+570,356,4,J’ai adorer la maniere dont le produit est fait.,2010-07-12,7,0
+388,219,5,J’ai kiffer utiliser ce produit,2018-06-04,9,0
+438,545,4,Je me demande comment j’ai fait pour vivre sans ce produit,2018-04-19,9,1
+529,98,2,Produit passable,2012-08-04,6,3
+307,374,2,Moyen,2019-01-12,9,0
+410,95,3,Produit passable,2025-12-17,5,0
+548,182,5,J’ai adorer la maniere dont le produit est fait.,2024-04-25,0,0
+415,447,5,Je me demande comment j’ai fait pour vivre sans ce produit,2018-11-27,4,1
+548,511,0,Ce produit est catastrophique,2019-10-24,7,0
+141,227,1,Produit a eviter,2025-02-09,6,0
+310,60,5,Je me demande comment j’ai fait pour vivre sans ce produit,2023-03-30,0,0
+563,468,4,J’ai adorer la maniere dont le produit est fait.,2014-12-30,5,0
+246,474,4,J’imagine que ce produit sera elu produit de l’annee,2019-07-05,9,0
+206,64,4,Ce produit est le meilleur produit de tout les temps,2022-05-04,7,1
+209,68,1,Produit a vomir.,2014-03-07,45,3
+71,388,4,J’ai kiffer utiliser ce produit,2013-06-09,22,1
+374,108,5,Je me demande comment j’ai fait pour vivre sans ce produit,2023-03-16,5,0
+503,168,2,Assez simple mais fait l’affaire,2018-10-03,46,15
+113,278,4,J’imagine que ce produit sera elu produit de l’annee,2019-08-22,1,0
+142,52,4,J’imagine que ce produit sera elu produit de l’annee,2019-03-23,2,0
+131,461,4,Ce produit est le meilleur produit de tout les temps,2019-03-08,3,0
+385,594,5,Je me demande comment j’ai fait pour vivre sans ce produit,2014-05-23,1,0
+541,392,2,Produit abordable,2013-10-07,3,1
+239,477,4,J’ai adorer la maniere dont le produit est fait.,2014-05-31,21,2
+314,293,4,Ce produit est le meilleur produit de tout les temps,2023-09-10,8,0
+561,466,5,J’ai kiffer utiliser ce produit,2014-01-31,4,0
+458,507,2,Produit passable,2016-03-28,3,3
+156,549,4,J’ai adorer la maniere dont le produit est fait.,2011-03-01,4,0
+590,298,5,J’ai kiffer utiliser ce produit,2011-04-05,5,0
+517,255,1,Ce produit est catastrophique,2017-03-05,1,0
+250,7,3,Produit abordable,2013-02-10,9,1
+599,11,4,Je me demande comment j’ai fait pour vivre sans ce produit,2022-12-25,1,0
+301,263,3,Assez simple mais fait l’affaire,2016-06-24,2,0
+80,418,3,Assez simple mais fait l’affaire,2017-11-22,0,0
+546,287,5,J’ai adorer la maniere dont le produit est fait.,2023-06-04,1,0
+512,405,5,J’imagine que ce produit sera elu produit de l’annee,2023-09-29,6,6
+353,485,4,Ce produit est le meilleur produit de tout les temps,2011-05-09,35,4
+226,582,0,Produit a vomir.,2015-12-17,8,1
+138,158,5,J’ai adorer la maniere dont le produit est fait.,2023-04-24,6,0
+104,110,5,J’ai adorer la maniere dont le produit est fait.,2019-12-07,7,0
+117,199,2,Produit passable,2011-11-20,4,0
+146,544,3,Assez simple mais fait l’affaire,2014-02-24,2,0
+332,109,4,J’imagine que ce produit sera elu produit de l’annee,2023-01-30,9,2
+321,146,5,Ce produit est le meilleur produit de tout les temps,2015-11-01,2,0
+320,335,3,Pas exceptionnel mais acceptable,2019-05-22,3,0
+117,385,2,Produit abordable,2017-08-24,0,0
+355,114,4,Ce produit est le meilleur produit de tout les temps,2026-10-25,8,2
+8,234,5,Ce produit est le meilleur produit de tout les temps,2013-12-23,9,1
+186,475,2,Assez simple mais fait l’affaire,2013-08-26,0,0
+325,41,4,J’imagine que ce produit sera elu produit de l’annee,2018-10-09,5,0
+31,421,1,Ce produit est catastrophique,2014-10-26,46,3
+372,52,4,J’ai kiffer utiliser ce produit,2022-02-21,6,0
+474,496,3,Produit abordable,2015-11-14,20,3
+196,378,5,J’ai adorer la maniere dont le produit est fait.,2015-03-12,1,0
+312,473,5,J’imagine que ce produit sera elu produit de l’annee,2011-09-20,0,0
+136,57,4,Je me demande comment j’ai fait pour vivre sans ce produit,2018-08-23,7,1
+263,330,3,Moyen,2016-10-23,9,0
+136,70,0,Detestable.,2017-06-04,16,1
+316,351,5,Je me demande comment j’ai fait pour vivre sans ce produit,2019-01-10,3,0
+474,553,4,J’ai adorer la maniere dont le produit est fait.,2014-04-09,10,2
+4,274,2,Produit passable,2021-06-17,0,0
+454,182,2,Moyen,2028-06-16,20,2
+442,289,5,Je me demande comment j’ai fait pour vivre sans ce produit,2025-11-20,2,0
+152,216,4,J’imagine que ce produit sera elu produit de l’annee,2015-05-27,4,0
+296,395,0,Ce produit est catastrophique,2015-01-14,1,0
+388,444,1,Perte d’argent sur ce produit.,2017-07-24,0,0
+157,60,5,J’ai kiffer utiliser ce produit,2014-06-26,3,0
+184,332,4,J’ai adorer la maniere dont le produit est fait.,2022-01-07,4,0
+135,19,2,Pas exceptionnel mais acceptable,2019-02-20,4,0
+2,268,3,Moyen,2025-04-14,0,0
+541,515,1,Ce produit est catastrophique,2018-02-11,6,0
+321,413,5,J’ai kiffer utiliser ce produit,2013-10-07,3,0
+261,428,2,Moyen,2019-11-14,6,0
+565,445,0,Ce produit est catastrophique,2014-05-04,7,1
+446,328,2,Pas exceptionnel mais acceptable,2020-08-29,4,0
+417,479,1,Produit a vomir.,2012-02-08,2,0
+252,436,4,J’ai adorer la maniere dont le produit est fait.,2015-05-24,9,1
+376,301,0,Detestable.,2016-08-04,4,2
+141,419,1,Perte d’argent sur ce produit.,2017-04-21,2,0
+438,207,4,Ce produit est le meilleur produit de tout les temps,2017-07-01,1,0
+334,552,3,Moyen,2016-09-17,6,0
+65,101,4,Ce produit est le meilleur produit de tout les temps,2021-12-16,0,0
+194,25,3,Assez simple mais fait l’affaire,2010-11-16,4,2
+112,489,4,J’ai kiffer utiliser ce produit,2013-12-27,1,1
+424,588,2,Assez simple mais fait l’affaire,2020-09-15,13,3
+70,86,2,Produit abordable,2022-10-08,4,1
+396,549,5,Ce produit est le meilleur produit de tout les temps,2021-08-16,1,0
+480,41,3,Produit abordable,2013-03-19,6,0
+485,247,4,J’imagine que ce produit sera elu produit de l’annee,2022-01-31,5,0
+188,435,1,Perte d’argent sur ce produit.,2022-07-04,2,0
+563,244,5,J’imagine que ce produit sera elu produit de l’annee,2022-09-18,9,9
+458,419,1,Ce produit est catastrophique,2021-11-06,4,4
+557,335,4,J’ai kiffer utiliser ce produit,2010-08-29,0,0
+495,60,5,J’imagine que ce produit sera elu produit de l’annee,2022-12-02,9,3
+508,386,4,Je me demande comment j’ai fait pour vivre sans ce produit,2021-11-12,7,1
+56,428,1,Produit a vomir.,2021-02-05,6,2
+281,404,5,Ce produit est le meilleur produit de tout les temps,2020-05-16,3,1
+344,326,4,J’ai adorer la maniere dont le produit est fait.,2024-06-08,9,0
+435,37,0,Ce produit est catastrophique,2012-02-02,6,2
+297,539,3,Pas exceptionnel mais acceptable,2018-09-29,8,0
+319,162,1,Produit a eviter,2015-06-15,34,3
+63,219,3,Pas exceptionnel mais acceptable,2017-01-15,28,3
+117,389,3,Pas exceptionnel mais acceptable,2012-06-05,2,0
+442,352,5,Je me demande comment j’ai fait pour vivre sans ce produit,2016-12-12,2,0
+352,302,4,J’ai kiffer utiliser ce produit,2017-08-05,5,5
+19,162,1,Ce produit est catastrophique,2019-05-02,16,1
+49,423,3,Produit abordable,2020-01-21,8,8
+145,338,5,J’ai adorer la maniere dont le produit est fait.,2011-08-09,8,0
+516,458,4,J’ai kiffer utiliser ce produit,2016-12-11,8,8
+129,406,4,J’ai adorer la maniere dont le produit est fait.,2021-02-02,2,0
+553,60,3,Produit abordable,2022-04-11,6,0
+397,22,2,Pas exceptionnel mais acceptable,2025-01-15,9,0
+77,365,0,Detestable.,2013-11-10,8,4
+299,278,5,Je me demande comment j’ai fait pour vivre sans ce produit,2013-04-12,2,0
+458,456,3,Produit abordable,2018-06-26,32,2
+196,34,2,Produit abordable,2015-06-14,2,2
+143,230,4,J’ai kiffer utiliser ce produit,2019-08-10,43,3
+472,261,4,J’ai kiffer utiliser ce produit,2013-01-01,8,0
+203,421,5,J’ai adorer la maniere dont le produit est fait.,2012-03-19,9,0
+186,52,4,J’imagine que ce produit sera elu produit de l’annee,2017-05-21,4,1
+120,167,5,Ce produit est le meilleur produit de tout les temps,2022-07-02,3,0
+434,197,0,Produit a vomir.,2020-11-29,2,0
+269,1,4,J’ai kiffer utiliser ce produit,2023-03-06,4,0
+380,380,2,Produit abordable,2017-08-24,31,5
+175,561,1,Produit a eviter,2024-05-30,29,7
+145,298,1,Detestable.,2011-06-22,1,0
+27,248,1,Perte d’argent sur ce produit.,2022-02-17,5,0
+265,473,3,Produit passable,2011-04-22,4,0
+411,114,4,J’ai kiffer utiliser ce produit,2020-09-10,5,0
+565,274,4,Je me demande comment j’ai fait pour vivre sans ce produit,2017-01-08,3,0
+98,205,4,J’ai kiffer utiliser ce produit,2021-10-21,7,0
+48,68,3,Produit passable,2012-11-15,7,1
+233,146,2,Produit abordable,2015-01-14,4,0
+355,355,4,J’imagine que ce produit sera elu produit de l’annee,2018-07-15,4,1
+154,281,3,Produit passable,2017-04-25,5,1
+533,379,3,Produit passable,2010-06-21,9,0
+92,260,1,Detestable.,2024-03-11,5,0
+420,205,4,J’ai kiffer utiliser ce produit,2018-02-04,1,0
+517,319,5,J’ai kiffer utiliser ce produit,2016-04-11,0,0
+168,527,4,J’imagine que ce produit sera elu produit de l’annee,2022-08-11,1,0
+465,297,3,Produit abordable,2011-03-15,2,0
+306,577,5,J’ai kiffer utiliser ce produit,2018-09-27,8,8
+146,128,1,Ce produit est catastrophique,2012-09-01,0,0
+14,297,4,J’ai adorer la maniere dont le produit est fait.,2022-01-07,5,0
+451,263,5,Je me demande comment j’ai fait pour vivre sans ce produit,2016-08-11,3,0
+111,447,4,J’ai adorer la maniere dont le produit est fait.,2022-04-03,5,0
+537,4,5,Ce produit est le meilleur produit de tout les temps,2013-01-13,1,0
+251,320,3,Assez simple mais fait l’affaire,2012-01-13,1,0
+181,386,4,J’imagine que ce produit sera elu produit de l’annee,2020-02-16,2,0
+116,431,4,J’ai kiffer utiliser ce produit,2015-07-26,8,2
+411,288,1,Produit a vomir.,2018-03-08,1,0
+492,407,5,J’ai kiffer utiliser ce produit,2017-05-11,16,1
+171,468,2,Pas exceptionnel mais acceptable,2017-06-14,1,0
+16,448,3,Moyen,2011-10-03,0,0
+550,472,4,J’imagine que ce produit sera elu produit de l’annee,2018-05-06,3,0
+449,390,4,J’imagine que ce produit sera elu produit de l’annee,2025-02-06,2,0
+293,452,5,J’imagine que ce produit sera elu produit de l’annee,2019-11-21,9,0
+407,47,5,J’imagine que ce produit sera elu produit de l’annee,2020-03-27,8,0
+367,380,5,Ce produit est le meilleur produit de tout les temps,2017-04-24,21,21
+89,317,3,Assez simple mais fait l’affaire,2020-02-02,8,0
+288,334,3,Moyen,2017-12-20,20,2
+59,244,4,Ce produit est le meilleur produit de tout les temps,2020-09-23,3,0
+188,243,5,Je me demande comment j’ai fait pour vivre sans ce produit,2017-11-04,6,1
+465,570,4,J’ai adorer la maniere dont le produit est fait.,2014-03-28,6,6
+444,5,4,J’ai adorer la maniere dont le produit est fait.,2020-04-24,1,0
+145,389,0,Produit a vomir.,2012-03-07,9,0
+355,336,4,J’ai adorer la maniere dont le produit est fait.,2025-01-21,9,3
+227,160,2,Produit passable,2015-10-29,6,0
+295,33,0,Perte d’argent sur ce produit.,2016-03-03,9,1
+139,113,5,Je me demande comment j’ai fait pour vivre sans ce produit,2013-07-10,5,0
+486,585,3,Assez simple mais fait l’affaire,2017-03-10,6,2
+515,519,3,Pas exceptionnel mais acceptable,2019-11-01,2,0
+424,270,3,Moyen,2025-05-14,4,0
+273,308,5,J’ai kiffer utiliser ce produit,2023-07-22,2,0
+540,142,5,Ce produit est le meilleur produit de tout les temps,2021-02-21,6,6
+204,218,3,Pas exceptionnel mais acceptable,2022-06-09,6,0
+91,428,0,Detestable.,2014-05-13,5,0
+296,541,1,Detestable.,2019-12-22,6,3
+281,119,2,Pas exceptionnel mais acceptable,2019-09-25,9,2
+240,379,5,J’ai adorer la maniere dont le produit est fait.,2019-02-19,5,0
+218,596,4,Ce produit est le meilleur produit de tout les temps,2016-04-19,5,5
+539,587,5,J’ai adorer la maniere dont le produit est fait.,2022-06-13,8,0
+597,492,4,J’ai adorer la maniere dont le produit est fait.,2019-03-30,46,3
+231,178,2,Assez simple mais fait l’affaire,2022-01-09,6,0
+438,552,4,J’ai kiffer utiliser ce produit,2018-12-22,4,0
+326,334,0,Produit a vomir.,2013-09-17,6,0
+15,362,3,Produit passable,2016-09-03,20,1
+181,32,4,Ce produit est le meilleur produit de tout les temps,2017-08-26,9,0
+126,326,2,Produit abordable,2021-04-16,16,4
+436,576,3,Pas exceptionnel mais acceptable,2021-09-03,0,0
+284,223,4,J’ai kiffer utiliser ce produit,2015-12-20,8,0
+490,91,0,Produit a eviter,2026-08-09,31,31
+262,588,0,Detestable.,2020-10-08,6,0
+299,37,2,Moyen,2015-11-17,3,3
+332,153,4,Ce produit est le meilleur produit de tout les temps,2017-06-28,0,0
+28,56,1,Produit a eviter,2015-08-29,8,4
+160,591,5,J’imagine que ce produit sera elu produit de l’annee,2021-01-29,0,0
+25,434,5,Je me demande comment j’ai fait pour vivre sans ce produit,2014-02-17,2,0
+360,196,0,Produit a vomir.,2020-09-29,7,0
+475,312,3,Produit abordable,2021-09-02,3,0
+524,574,3,Moyen,2013-07-02,3,0
+524,71,4,J’imagine que ce produit sera elu produit de l’annee,2017-06-11,19,1
+102,114,0,Produit a eviter,2022-03-16,6,0
+69,234,4,J’imagine que ce produit sera elu produit de l’annee,2021-11-11,7,1
+162,581,0,Detestable.,2013-01-17,4,0
+449,315,3,Moyen,2018-08-19,9,0
+400,273,3,Produit passable,2020-07-05,19,9
+366,292,5,Ce produit est le meilleur produit de tout les temps,2011-12-09,6,0
+554,277,4,Ce produit est le meilleur produit de tout les temps,2019-01-18,8,1
+328,58,3,Produit abordable,2023-05-31,6,1
+469,302,4,J’imagine que ce produit sera elu produit de l’annee,2014-05-31,3,0
+200,139,4,J’ai kiffer utiliser ce produit,2024-02-13,3,0
+96,550,5,J’imagine que ce produit sera elu produit de l’annee,2014-07-03,1,0
+240,535,5,J’imagine que ce produit sera elu produit de l’annee,2021-06-30,1,0
+357,7,5,Ce produit est le meilleur produit de tout les temps,2022-08-28,5,0
+242,149,1,Detestable.,2021-07-27,1,0
+276,480,0,Detestable.,2024-06-21,8,1
+273,276,5,Ce produit est le meilleur produit de tout les temps,2022-11-22,0,0
+77,348,5,J’ai kiffer utiliser ce produit,2014-05-07,8,0
+181,332,1,Ce produit est catastrophique,2017-07-26,2,0
+317,201,2,Produit abordable,2020-12-22,6,0
+214,278,5,J’ai adorer la maniere dont le produit est fait.,2020-02-13,7,0
+469,536,5,Je me demande comment j’ai fait pour vivre sans ce produit,2012-06-18,0,0
+133,313,3,Produit abordable,2014-09-13,5,0
+56,276,3,Pas exceptionnel mais acceptable,2019-12-03,3,0
+191,433,3,Pas exceptionnel mais acceptable,2015-09-15,2,0
+226,150,5,J’ai adorer la maniere dont le produit est fait.,2014-07-06,8,0
+346,19,2,Pas exceptionnel mais acceptable,2023-08-22,2,2
+200,594,2,Pas exceptionnel mais acceptable,2017-11-02,6,6
+326,160,4,Je me demande comment j’ai fait pour vivre sans ce produit,2014-07-19,2,0
+114,394,4,J’imagine que ce produit sera elu produit de l’annee,2012-12-10,25,6
+9,413,5,J’ai kiffer utiliser ce produit,2015-04-04,8,0
+88,261,0,Perte d’argent sur ce produit.,2011-09-04,4,0
+534,307,5,J’imagine que ce produit sera elu produit de l’annee,2019-06-10,1,0
+415,211,0,Produit a eviter,2018-09-25,6,2
+171,480,4,J’imagine que ce produit sera elu produit de l’annee,2027-02-20,4,0
+331,377,3,Pas exceptionnel mais acceptable,2020-07-30,7,3
+598,182,0,Ce produit est catastrophique,2021-04-29,9,1
+74,262,2,Assez simple mais fait l’affaire,2019-10-18,24,6
+514,195,0,Produit a eviter,2013-02-21,2,0
+51,196,3,Pas exceptionnel mais acceptable,2023-05-09,18,2
+309,176,3,Moyen,2019-06-02,5,0
+498,51,3,Produit passable,2018-02-15,5,0
+53,401,1,Ce produit est catastrophique,2020-03-07,1,0
+445,547,5,Ce produit est le meilleur produit de tout les temps,2018-11-27,4,0
+372,385,3,Assez simple mais fait l’affaire,2015-08-22,5,0
+410,400,3,Pas exceptionnel mais acceptable,2021-02-14,0,0
+14,56,1,Produit a vomir.,2020-06-12,8,0
+78,503,3,Pas exceptionnel mais acceptable,2014-08-22,7,0
+510,60,5,J’ai kiffer utiliser ce produit,2018-08-14,5,1
+320,362,1,Produit a eviter,2022-07-09,5,5
+144,12,1,Perte d’argent sur ce produit.,2025-03-06,7,7
+451,150,3,Produit passable,2014-12-24,4,4
+187,186,2,Assez simple mais fait l’affaire,2023-06-11,4,0
+295,442,3,Moyen,2013-11-24,45,4
+75,514,5,J’ai kiffer utiliser ce produit,2012-11-08,1,1
+121,456,4,J’ai kiffer utiliser ce produit,2015-04-23,9,0
+536,549,2,Pas exceptionnel mais acceptable,2017-09-17,2,0
+178,41,5,Ce produit est le meilleur produit de tout les temps,2021-02-26,2,0
+52,152,5,J’ai adorer la maniere dont le produit est fait.,2019-07-23,7,0
+263,433,0,Produit a eviter,2017-06-04,19,1
+152,584,4,Je me demande comment j’ai fait pour vivre sans ce produit,2015-07-09,6,1
+202,594,4,Je me demande comment j’ai fait pour vivre sans ce produit,2012-04-22,8,1
+468,203,5,J’ai kiffer utiliser ce produit,2024-03-03,2,1
+91,578,4,Ce produit est le meilleur produit de tout les temps,2012-11-19,4,4
+233,188,0,Produit a vomir.,2017-09-03,6,6
+426,522,5,Ce produit est le meilleur produit de tout les temps,2014-12-19,1,0
+553,240,4,J’ai adorer la maniere dont le produit est fait.,2021-11-22,9,1
+91,363,5,J’ai adorer la maniere dont le produit est fait.,2011-05-11,1,0
+263,548,0,Produit a eviter,2018-11-04,36,3
+28,393,4,J’ai adorer la maniere dont le produit est fait.,2015-04-17,12,4
+19,188,5,Je me demande comment j’ai fait pour vivre sans ce produit,2024-10-09,5,0
+276,409,3,Moyen,2022-02-06,0,0
+271,270,3,Produit abordable,2025-01-31,2,1
+258,75,4,J’imagine que ce produit sera elu produit de l’annee,2027-02-28,7,0
+597,591,5,J’imagine que ce produit sera elu produit de l’annee,2021-03-05,8,0
+235,251,3,Produit abordable,2011-09-06,3,0
+520,220,4,J’ai kiffer utiliser ce produit,2015-11-22,2,0
+545,309,3,Produit abordable,2018-10-25,9,2
+414,464,0,Ce produit est catastrophique,2020-06-22,7,1
+74,292,1,Perte d’argent sur ce produit.,2019-04-15,7,0
+35,419,5,J’ai adorer la maniere dont le produit est fait.,2019-04-18,9,2
+93,331,3,Assez simple mais fait l’affaire,2010-09-09,8,0
+178,551,0,Perte d’argent sur ce produit.,2018-08-10,2,1
+287,331,2,Pas exceptionnel mais acceptable,2012-10-17,2,0
+35,395,3,Produit abordable,2019-08-29,0,0
+61,578,3,Moyen,2022-02-20,34,3
+449,7,3,Moyen,2018-09-27,1,1
+205,366,5,J’ai adorer la maniere dont le produit est fait.,2016-02-13,7,1
+490,63,3,Moyen,2024-04-03,8,8
+198,211,3,Assez simple mais fait l’affaire,2010-12-18,0,0
+572,502,3,Produit passable,2016-01-12,7,0
+445,229,5,Ce produit est le meilleur produit de tout les temps,2014-12-11,7,0
+305,218,0,Ce produit est catastrophique,2017-06-01,7,1
+368,252,5,J’imagine que ce produit sera elu produit de l’annee,2017-04-11,0,0
+300,8,5,J’imagine que ce produit sera elu produit de l’annee,2016-11-13,2,0
+260,282,4,Ce produit est le meilleur produit de tout les temps,2014-05-19,4,0
+129,103,1,Perte d’argent sur ce produit.,2022-07-30,2,2
+403,99,2,Produit passable,2020-11-17,9,4
+293,465,1,Perte d’argent sur ce produit.,2016-06-28,3,0
+329,38,2,Produit passable,2014-02-22,1,0
+546,29,5,J’ai adorer la maniere dont le produit est fait.,2020-05-24,3,0
+174,523,3,Produit abordable,2011-05-08,7,0
+411,361,3,Pas exceptionnel mais acceptable,2016-11-16,44,44
+579,377,4,Je me demande comment j’ai fait pour vivre sans ce produit,2016-11-26,3,1
+497,232,3,Pas exceptionnel mais acceptable,2021-12-17,9,2
+522,179,3,Assez simple mais fait l’affaire,2021-10-30,5,2
+169,139,2,Moyen,2017-06-19,7,3
+47,26,2,Pas exceptionnel mais acceptable,2021-08-17,24,4
+380,441,3,Produit abordable,2013-04-18,2,0
+121,324,3,Produit passable,2020-06-16,9,9
+490,132,3,Pas exceptionnel mais acceptable,2020-02-08,5,0
+450,517,3,Produit passable,2016-10-02,9,0
+591,100,5,J’ai kiffer utiliser ce produit,2016-02-23,5,0
+532,276,4,Je me demande comment j’ai fait pour vivre sans ce produit,2015-09-26,6,0
+523,195,3,Pas exceptionnel mais acceptable,2016-07-27,6,3
+184,87,4,Je me demande comment j’ai fait pour vivre sans ce produit,2021-07-02,4,0
+553,358,4,J’imagine que ce produit sera elu produit de l’annee,2021-04-04,4,0
+248,344,3,Produit passable,2013-09-24,4,4
+408,353,4,Ce produit est le meilleur produit de tout les temps,2023-07-17,2,1
+492,367,4,Ce produit est le meilleur produit de tout les temps,2019-12-13,7,0
+53,438,3,Assez simple mais fait l’affaire,2022-10-30,0,0
+567,23,3,Produit abordable,2015-07-26,2,0
+129,227,0,Detestable.,2022-06-08,8,1
+596,313,3,Produit abordable,2017-05-20,5,0
+176,102,5,Je me demande comment j’ai fait pour vivre sans ce produit,2022-12-02,9,0
+251,370,4,J’imagine que ce produit sera elu produit de l’annee,2011-11-13,6,6
+527,481,5,J’imagine que ce produit sera elu produit de l’annee,2017-06-06,5,2
+7,269,3,Produit passable,2018-02-18,13,1
+54,27,3,Moyen,2014-03-31,38,2
+447,231,4,J’imagine que ce produit sera elu produit de l’annee,2015-04-06,8,2
+562,555,4,Ce produit est le meilleur produit de tout les temps,2017-12-26,13,1
+544,397,4,Je me demande comment j’ai fait pour vivre sans ce produit,2017-10-01,6,1
+466,157,0,Ce produit est catastrophique,2022-03-28,5,2
+295,131,0,Detestable.,2015-03-24,6,0
+582,94,2,Produit passable,2018-09-15,2,0
+504,518,4,J’imagine que ce produit sera elu produit de l’annee,2015-02-22,0,0
+16,33,5,J’ai kiffer utiliser ce produit,2011-04-12,0,0
+128,300,5,Je me demande comment j’ai fait pour vivre sans ce produit,2025-03-02,6,1
+351,264,3,Moyen,2015-03-06,4,0
+357,284,2,Assez simple mais fait l’affaire,2023-12-20,6,1
+491,508,4,J’imagine que ce produit sera elu produit de l’annee,2014-11-15,5,0
+221,55,3,Produit abordable,2026-01-29,2,0
+414,235,3,Pas exceptionnel mais acceptable,2030-08-21,7,0
+326,349,0,Produit a eviter,2018-03-13,4,0
+171,88,5,J’ai kiffer utiliser ce produit,2016-06-07,35,3
+107,294,0,Produit a eviter,2016-06-15,0,0
+487,322,1,Produit a vomir.,2019-03-04,5,2
+122,533,3,Moyen,2019-10-10,0,0
+186,363,1,Detestable.,2015-08-06,1,0
+355,257,3,Produit abordable,2020-06-28,3,0
+496,249,4,J’ai kiffer utiliser ce produit,2019-03-14,1,1
+8,245,5,Je me demande comment j’ai fait pour vivre sans ce produit,2014-01-13,24,24
+525,558,0,Perte d’argent sur ce produit.,2023-06-21,6,2
+349,281,3,Assez simple mais fait l’affaire,2017-05-21,5,0
+279,28,5,Je me demande comment j’ai fait pour vivre sans ce produit,2023-02-24,14,7
+251,79,5,J’imagine que ce produit sera elu produit de l’annee,2010-12-22,6,1
+510,517,2,Assez simple mais fait l’affaire,2020-01-20,2,0
+92,599,2,Moyen,2021-05-07,6,0
+256,585,4,J’imagine que ce produit sera elu produit de l’annee,2022-03-27,7,0
+490,480,4,Je me demande comment j’ai fait pour vivre sans ce produit,2022-07-31,6,3
+317,471,5,J’ai adorer la maniere dont le produit est fait.,2021-10-13,4,0
+249,206,3,Produit abordable,2014-12-19,1,0
+493,383,4,J’ai adorer la maniere dont le produit est fait.,2014-08-16,6,2
+162,250,4,Je me demande comment j’ai fait pour vivre sans ce produit,2020-06-28,2,0
+575,418,5,Je me demande comment j’ai fait pour vivre sans ce produit,2020-11-18,41,3
+115,204,5,J’imagine que ce produit sera elu produit de l’annee,2016-06-22,7,7
+558,588,4,J’ai adorer la maniere dont le produit est fait.,2018-08-17,0,0
+409,220,5,Ce produit est le meilleur produit de tout les temps,2013-03-30,6,2
+210,136,3,Produit abordable,2017-07-27,7,7
+41,226,1,Produit a eviter,2020-04-29,9,0
+515,114,3,Produit abordable,2016-01-21,9,0
+582,196,3,Produit abordable,2015-03-04,1,0
+496,105,5,Ce produit est le meilleur produit de tout les temps,2023-07-07,8,1
+164,575,0,Produit a vomir.,2017-11-07,7,0
+386,343,5,J’ai adorer la maniere dont le produit est fait.,2017-03-02,2,1
+292,149,0,Produit a eviter,2027-09-21,8,0
+492,376,5,J’ai kiffer utiliser ce produit,2016-12-08,4,0
+400,385,3,Produit passable,2022-09-18,7,7
+382,508,5,J’imagine que ce produit sera elu produit de l’annee,2023-10-14,0,0
+176,27,0,Produit a eviter,2015-01-04,44,4
+93,221,4,J’imagine que ce produit sera elu produit de l’annee,2010-05-06,19,1
+570,333,5,Ce produit est le meilleur produit de tout les temps,2013-01-19,3,1
+414,63,0,Produit a vomir.,2025-01-26,30,4
+152,598,1,Perte d’argent sur ce produit.,2013-07-27,30,2
+538,504,1,Ce produit est catastrophique,2021-01-03,9,0
+586,348,5,J’ai kiffer utiliser ce produit,2016-11-27,9,0
+578,599,5,J’ai adorer la maniere dont le produit est fait.,2019-08-11,3,0
+520,250,3,Produit abordable,2021-12-11,4,0
+118,356,2,Moyen,2015-03-29,32,8
+477,112,0,Ce produit est catastrophique,2021-11-08,8,4
+126,547,1,Perte d’argent sur ce produit.,2029-07-01,4,0
+119,92,1,Detestable.,2018-04-30,8,0
+577,66,0,Perte d’argent sur ce produit.,2015-09-01,5,0
+137,557,4,J’imagine que ce produit sera elu produit de l’annee,2015-08-29,6,0
+586,429,3,Produit abordable,2011-12-06,6,0
+514,557,4,J’imagine que ce produit sera elu produit de l’annee,2018-12-27,1,0
+374,219,4,Je me demande comment j’ai fait pour vivre sans ce produit,2021-04-13,6,0
+380,309,0,Ce produit est catastrophique,2012-03-21,9,2
+268,598,3,Assez simple mais fait l’affaire,2011-02-25,5,0
+285,192,5,J’ai adorer la maniere dont le produit est fait.,2012-11-15,3,3
+583,361,4,J’ai adorer la maniere dont le produit est fait.,2014-06-15,8,0
+68,21,5,J’ai adorer la maniere dont le produit est fait.,2023-07-13,7,2
+27,534,4,J’ai kiffer utiliser ce produit,2023-10-13,7,1
+10,591,1,Produit a eviter,2015-05-28,3,0
+41,535,4,Je me demande comment j’ai fait pour vivre sans ce produit,2015-06-01,15,2
+9,185,1,Ce produit est catastrophique,2019-11-14,6,0
+188,453,4,Je me demande comment j’ai fait pour vivre sans ce produit,2014-02-05,6,0
+108,111,4,J’ai adorer la maniere dont le produit est fait.,2017-04-22,5,5
+514,411,3,Moyen,2020-05-20,2,0
+338,307,3,Assez simple mais fait l’affaire,2023-11-24,9,3
+328,493,4,Ce produit est le meilleur produit de tout les temps,2025-09-07,3,0
+271,529,5,J’ai adorer la maniere dont le produit est fait.,2025-09-25,6,1
+271,593,1,Produit a eviter,2027-09-15,3,0
+126,206,1,Ce produit est catastrophique,2021-09-04,8,2
+445,326,2,Assez simple mais fait l’affaire,2015-12-08,2,0
+506,183,4,J’ai adorer la maniere dont le produit est fait.,2020-04-12,7,1
+164,365,4,J’imagine que ce produit sera elu produit de l’annee,2016-07-05,4,0
+484,213,2,Produit abordable,2020-05-12,34,5
+302,37,0,Perte d’argent sur ce produit.,2019-12-03,6,0
+528,393,3,Assez simple mais fait l’affaire,2015-03-12,0,0
